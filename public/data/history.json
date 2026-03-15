@@ -1,0 +1,68 @@
+{
+  "updatedAt": "2026-03-08T11:38:44.554Z",
+  "runs": [
+    {
+      "id": "2026-03-08T11-37-55-699Z",
+      "startedAt": "2026-03-08T11:37:55.691Z",
+      "finishedAt": "2026-03-08T11:38:44.554Z",
+      "sourceCount": 3,
+      "resultCount": 17,
+      "status": "partial",
+      "notes": [
+        "afbudsrejser.dk: Loaded https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly",
+        "afbudsrejser.dk: Extracted 18 candidate result cards.",
+        "travelmarket.dk: Public Travelmarket package endpoints linked from the homepage returned 404 responses during live verification.",
+        "travelmarket.dk: Keeping this source as a blocker note is safer than scraping stale search-engine snippets or bypassing anti-bot controls.",
+        "tui.dk: Adapter scaffolded, but the public search flow appears more JS-heavy and needs a separate selector pass.",
+        "tui.dk: For the MVP, this source stays documented but inactive rather than pretending to be reliable."
+      ]
+    },
+    {
+      "id": "2026-03-08T11-10-41-308Z",
+      "startedAt": "2026-03-08T11:10:41.295Z",
+      "finishedAt": "2026-03-08T11:11:27.038Z",
+      "sourceCount": 3,
+      "resultCount": 18,
+      "status": "partial",
+      "notes": [
+        "afbudsrejser.dk: Loaded https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly",
+        "afbudsrejser.dk: Extracted 18 candidate result cards.",
+        "travelmarket.dk: Public Travelmarket package endpoints linked from the homepage returned 404 responses during live verification.",
+        "travelmarket.dk: Keeping this source as a blocker note is safer than scraping stale search-engine snippets or bypassing anti-bot controls.",
+        "tui.dk: Adapter scaffolded, but the public search flow appears more JS-heavy and needs a separate selector pass.",
+        "tui.dk: For the MVP, this source stays documented but inactive rather than pretending to be reliable."
+      ]
+    },
+    {
+      "id": "2026-03-08T10-49-31-363Z",
+      "startedAt": "2026-03-08T10:49:31.359Z",
+      "finishedAt": "2026-03-08T10:49:45.158Z",
+      "sourceCount": 3,
+      "resultCount": 0,
+      "status": "failed",
+      "notes": [
+        "afbudsrejser.dk: locator.evaluate: ReferenceError: __name is not defined\n    at eval (eval at evaluate (:290:30), <anonymous>:1:22)\n    at UtilityScript.evaluate (<anonymous>:292:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
+        "travelmarket.dk: Public Travelmarket package endpoints linked from the homepage returned 404 responses during live verification.",
+        "travelmarket.dk: Keeping this source as a blocker note is safer than scraping stale search-engine snippets or bypassing anti-bot controls.",
+        "tui.dk: Adapter scaffolded, but the public search flow appears more JS-heavy and needs a separate selector pass.",
+        "tui.dk: For the MVP, this source stays documented but inactive rather than pretending to be reliable."
+      ]
+    },
+    {
+      "id": "2026-03-07T15-36-59-575Z",
+      "startedAt": "2026-03-07T15:36:59.571Z",
+      "finishedAt": "2026-03-07T15:37:27.167Z",
+      "sourceCount": 3,
+      "resultCount": 0,
+      "status": "failed",
+      "notes": [
+        "travelmarket.dk: Loaded https://www.travelmarket.dk/traveloffer.cfm",
+        "travelmarket.dk: Extracted 8 candidate offers before normalization.",
+        "afbudsrejser.dk: Adapter scaffolded, but no stable public result URL was verified for Billund + 7 nights without brittle UI automation.",
+        "afbudsrejser.dk: Leaving this source disabled is safer than emitting guessed data.",
+        "tui.dk: Adapter scaffolded, but the public search flow appears more JS-heavy and needs a separate selector pass.",
+        "tui.dk: For the MVP, this source stays documented but inactive rather than pretending to be reliable."
+      ]
+    }
+  ]
+}
