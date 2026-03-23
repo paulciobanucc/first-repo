@@ -1,34 +1,36 @@
 {
-  "generatedAt": "2026-03-19T08:04:55.179Z",
+  "generatedAt": "2026-03-23T09:48:02.217Z",
   "markdownPath": "data/latest-report.md",
   "groups": [
     {
       "title": "Best overall",
       "description": "Top score after budget, data quality, and Greece preference.",
       "dealIds": [
-        "deal-72c5cd16",
-        "deal-d5b6f887",
-        "deal-1c8d2797",
-        "deal-1cbff209",
-        "deal-a5ffc1f7"
+        "deal-ce72f84e",
+        "deal-a8936e7b",
+        "deal-30d080e2",
+        "deal-5c449ffb",
+        "deal-88197878"
       ]
     },
     {
       "title": "Cheapest",
       "description": "Lowest known total price among matching deals.",
       "dealIds": [
-        "deal-d5b6f887",
-        "deal-1c8d2797",
-        "deal-1cbff209",
-        "deal-a5ffc1f7",
-        "deal-baf2fa11"
+        "deal-ce72f84e",
+        "deal-5c449ffb",
+        "deal-88197878",
+        "deal-31d383be",
+        "deal-9ee01f00"
       ]
     },
     {
       "title": "Best Greece options",
       "description": "Greek packages get a small boost but still need good value.",
       "dealIds": [
-        "deal-72c5cd16"
+        "deal-ce72f84e",
+        "deal-a8936e7b",
+        "deal-30d080e2"
       ]
     }
   ]
