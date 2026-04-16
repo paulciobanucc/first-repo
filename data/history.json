@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-04-13T08:23:21.458Z",
+  "updatedAt": "2026-04-16T08:06:11.130Z",
   "runs": [
+    {
+      "id": "2026-04-16T08-06-05-325Z",
+      "startedAt": "2026-04-16T08:06:05.325Z",
+      "finishedAt": "2026-04-16T08:06:11.130Z",
+      "sourceCount": 3,
+      "resultCount": 14,
+      "status": "partial",
+      "notes": [
+        "afbudsrejser.dk: Loaded https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly",
+        "afbudsrejser.dk: Extracted 18 candidate result cards.",
+        "travelmarket.dk: Public Travelmarket package endpoints linked from the homepage returned 404 responses during live verification.",
+        "travelmarket.dk: Keeping this source as a blocker note is safer than scraping stale search-engine snippets or bypassing anti-bot controls.",
+        "tui.dk: Adapter scaffolded, but the public search flow appears more JS-heavy and needs a separate selector pass.",
+        "tui.dk: For the MVP, this source stays documented but inactive rather than pretending to be reliable."
+      ]
+    },
     {
       "id": "2026-04-13T08-23-15-141Z",
       "startedAt": "2026-04-13T08:23:15.141Z",
