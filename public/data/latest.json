@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-21T10:05:00.405Z",
+  "generatedAt": "2026-05-25T10:47:38.209Z",
   "run": {
-    "id": "2026-05-21T10-04-52-945Z",
-    "startedAt": "2026-05-21T10:04:52.944Z",
-    "finishedAt": "2026-05-21T10:05:00.405Z",
+    "id": "2026-05-25T10-47-32-437Z",
+    "startedAt": "2026-05-25T10:47:32.437Z",
+    "finishedAt": "2026-05-25T10:47:38.209Z",
     "sourceCount": 3,
-    "resultCount": 17,
+    "resultCount": 18,
     "status": "partial",
     "notes": [
       "afbudsrejser.dk: Loaded https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly",
@@ -47,22 +47,22 @@
   ],
   "deals": [
     {
-      "id": "deal-27ca3bee",
+      "id": "deal-3dda632d",
       "source": "afbudsrejser.dk",
-      "provider": "Apollo",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.16&id=1573639%21jVRVxg4G4IP4QWBLfESYWw&link=https%3A%2F%2Fbff.apollorejser.dk%2Flink%2Fapollorejserdk%2Fbooking%3FdepartureDate%3D2026-06-22%26durationInDays%3D7%26paxAges%3D18%252C18%26departureAirportCode%3DBLL%26flightPackageCode%3D1%7Ev%253A2%253Bfo_tp%253A1%253Bonr%253ARC7158%253Binr%253ARC7159%253Bdair%253ABLL%253Bddate%253A2026-06-22%253Bdur%253A7%253Bcls%253AY%253Bi_tp%253A0%253Baair%253APVK%253Boutdeptime%253A20260622T0700%253Boutarrtime%253A20260622T1100%253Bindeptime%253A20260629T2250%253Binarrtime%253A20260630T0050%26productCategoryCode%3DFlightAndHotel%26b-mode%3D%26showSub%3Dyes%26outboundFlightSerie%3DBLLPVK11%26inboundFlightSerie%3DBLLPVK11%26isUnspecified%3Dno%26accommodationUri%3Dder%253Aaccommodation%253Adtno%253A4SriLV2zGU3BFZMuS028jm%26agentCode%3D%5B%5BAPOLLO_DK_agent%5D%5D&list=charter&p=3386&s=APOLLO_DK&a=afbudsrejser&crc=3717299626",
-      "hotelName": "Stefania",
-      "destination": "Parga-området",
+      "provider": "Spies",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.11&id=879347%21TPIbvXYDIgMrfQqPDAShyg&link=https%3A%2F%2Fwww.spies.dk%2Fgraekenland%2Frhodos%2Frhodos-by%2Fel-greco%3FItemId%3D163684%26QueryAges%3D42%2C42%26QueryDepDate%3D20260607%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=2990&s=SPIES_DK&a=afbudsrejser&crc=1871027328",
+      "hotelName": "El Greco",
+      "destination": "Rhodos by",
       "country": "Greece",
       "departureAirport": "Billund (BLL)",
-      "departureDate": "2026-06-22",
-      "returnDate": "2026-06-29",
+      "departureDate": "2026-06-07",
+      "returnDate": "2026-06-14",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 3386,
+      "totalPrice": 2990,
       "currency": "DKK",
-      "hotelImageUrl": "https://billeder.apollorejser.dk/stefania-1749719410-679113-ImageGalleryLightbox.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-16.png",
+      "hotelImageUrl": "https://img.spies.dk/image/upload/c_fill,w_1280,h_853,q_auto:eco/dam-upload/Hotel/Greece/RHO/y9higdL/GR_RHO_El_Greco_y9higdL_00002.jpg",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-11.png",
       "score": 107,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -72,7 +72,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Strong fit: under budget and in Greece.",
-      "foundAt": "2026-05-21T10:05:00.162Z",
+      "foundAt": "2026-05-25T10:47:37.433Z",
       "isGreece": true,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -81,32 +81,33 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-26f5c50d",
+      "id": "deal-b93c860a",
       "source": "afbudsrejser.dk",
-      "provider": "Sembo",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.1&id=1496263%21VxeLy0l8Bq4IylSh7Bgpxg&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0wOSIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0wOSIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0wOSIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-09&list=charter&p=2478&s=SEMBO_DK&a=afbudsrejser&crc=197356742",
-      "hotelName": "VILA CANO",
-      "destination": "Durres",
-      "country": "Albania",
+      "provider": "Spies",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.17&id=321311%21FwBRaMxxQ1mkQ51mmAitHQ&link=https%3A%2F%2Fwww.spies.dk%2Fgraekenland%2Frhodos%2Frhodos-by%2Fhelena%3FItemId%3D9283%26QueryAges%3D42%2C5%2C5%26QueryDepDate%3D20260607%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=3190&s=SPIES_DK&a=afbudsrejser&crc=3593992750",
+      "hotelName": "Helena",
+      "destination": "Rhodos by",
+      "country": "Greece",
       "departureAirport": "Billund (BLL)",
-      "departureDate": "2026-06-09",
-      "returnDate": "2026-06-16",
+      "departureDate": "2026-06-07",
+      "returnDate": "2026-06-14",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 2478,
+      "totalPrice": 3190,
       "currency": "DKK",
-      "hotelImageUrl": "https://i.travelapi.com/lodging/114000000/113340000/113331000/113330924/87e0056a_z.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-1.png",
-      "score": 100,
+      "hotelImageUrl": "https://img.spies.dk/image/upload/c_fill,w_1280,h_853,q_auto:eco/dam-upload/Hotel/Greece/RHO/5qfyq3w/GR_RHO_Helena_5qfyq3w_00038.jpg",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-17.png",
+      "score": 107,
       "reasons": [
         "Within the 7000 DKK target.",
+        "Greece gets a small ranking boost.",
         "Complete data makes this easier to compare.",
         "Visual context is available.",
         "Departure and return dates are clearly extracted."
       ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:58.519Z",
-      "isGreece": false,
+      "interestingNote": "Strong fit: under budget and in Greece.",
+      "foundAt": "2026-05-25T10:47:38.057Z",
+      "isGreece": true,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
       },
@@ -114,10 +115,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-ebdebe41",
+      "id": "deal-4faca293",
       "source": "afbudsrejser.dk",
       "provider": "Sembo",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.2&id=1496263%2148FXF1LoSEdxdJTUaCJIPA&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0xNiIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0xNiIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0xNiIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-16&list=charter&p=2524&s=SEMBO_DK&a=afbudsrejser&crc=1161612836",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.1&id=1496263%2148FXF1LoSEdxdJTUaCJIPA&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0xNiIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0xNiIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0xNiIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-16&list=charter&p=2218&s=SEMBO_DK&a=afbudsrejser&crc=3920176678",
       "hotelName": "VILA CANO",
       "destination": "Durres",
       "country": "Albania",
@@ -126,10 +127,10 @@
       "returnDate": "2026-06-23",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 2524,
+      "totalPrice": 2218,
       "currency": "DKK",
       "hotelImageUrl": "https://i.travelapi.com/lodging/114000000/113340000/113331000/113330924/87e0056a_z.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-2.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-1.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -138,7 +139,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:58.634Z",
+      "foundAt": "2026-05-25T10:47:36.337Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -147,43 +148,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-195cf91d",
+      "id": "deal-4e5ab84c",
       "source": "afbudsrejser.dk",
       "provider": "Sembo",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.3&id=1496263%21yqLaaBxToeFwUlRlSXtKJA&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0yMCIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0yMCIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0yMCIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-20&list=charter&p=2536&s=SEMBO_DK&a=afbudsrejser&crc=2016619687",
-      "hotelName": "VILA CANO",
-      "destination": "Durres",
-      "country": "Albania",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2026-06-20",
-      "returnDate": "2026-06-27",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 2536,
-      "currency": "DKK",
-      "hotelImageUrl": "https://i.travelapi.com/lodging/114000000/113340000/113331000/113330924/87e0056a_z.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-3.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:58.752Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-474565e6",
-      "source": "afbudsrejser.dk",
-      "provider": "Sembo",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.4&id=1496263%21Xh0ccs6pobMAWbyICtPD9A&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0wMiIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0wMiIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0wMiIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-02&list=charter&p=2544&s=SEMBO_DK&a=afbudsrejser&crc=3822912268",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.2&id=1496263%21Xh0ccs6pobMAWbyICtPD9A&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0wMiIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0wMiIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0wMiIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-02&list=charter&p=2316&s=SEMBO_DK&a=afbudsrejser&crc=58661381",
       "hotelName": "VILA CANO",
       "destination": "Durres",
       "country": "Albania",
@@ -192,10 +160,10 @@
       "returnDate": "2026-06-09",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 2544,
+      "totalPrice": 2316,
       "currency": "DKK",
       "hotelImageUrl": "https://i.travelapi.com/lodging/114000000/113340000/113331000/113330924/87e0056a_z.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-4.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-2.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -204,7 +172,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:58.867Z",
+      "foundAt": "2026-05-25T10:47:36.453Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -213,22 +181,55 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-bc33af1c",
+      "id": "deal-8694c89",
+      "source": "afbudsrejser.dk",
+      "provider": "Spies",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.3&id=319904%21xIAsPxUnQ5pfLsLxjpvZHg&link=https%3A%2F%2Fwww.spies.dk%2Ftyrkiet%2Fantalya-omradet%2Fside%2Fbegonville-side%3FItemId%3D9566%26QueryAges%3D42%2C42%26QueryDepDate%3D20260604%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=2390&s=SPIES_DK&a=afbudsrejser&crc=3210643826",
+      "hotelName": "Begonville Side",
+      "destination": "Side",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2026-06-04",
+      "returnDate": "2026-06-11",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 2390,
+      "currency": "DKK",
+      "hotelImageUrl": "https://img.spies.dk/image/upload/c_fill,w_1280,h_853,q_auto:eco/dam-upload/Hotel/Turkey/AYT/xtL2a5w/TR_AYT_Begonville_Side_xtL2a5w_00064.jpg",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-3.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-05-25T10:47:36.565Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-77404f2",
       "source": "afbudsrejser.dk",
       "provider": "Sembo",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.5&id=1496263%21sLho8UWBGLsynYDakobmvg&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0yMyIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0yMyIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0yMyIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-23&list=charter&p=2784&s=SEMBO_DK&a=afbudsrejser&crc=1772995432",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.4&id=1496263%21VxeLy0l8Bq4IylSh7Bgpxg&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0wOSIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0wOSIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0wOSIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-09&list=charter&p=2392&s=SEMBO_DK&a=afbudsrejser&crc=3245671717",
       "hotelName": "VILA CANO",
       "destination": "Durres",
       "country": "Albania",
       "departureAirport": "Billund (BLL)",
-      "departureDate": "2026-06-23",
-      "returnDate": "2026-06-30",
+      "departureDate": "2026-06-09",
+      "returnDate": "2026-06-16",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 2784,
+      "totalPrice": 2392,
       "currency": "DKK",
       "hotelImageUrl": "https://i.travelapi.com/lodging/114000000/113340000/113331000/113330924/87e0056a_z.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-5.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-4.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -237,7 +238,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:58.985Z",
+      "foundAt": "2026-05-25T10:47:36.670Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -246,10 +247,76 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-64ba3da1",
+      "id": "deal-add7a894",
       "source": "afbudsrejser.dk",
       "provider": "Sembo",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.6&id=1496263%21JM5hD6a45qXM7D3gCqiikA&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0wNiIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0wNiIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0wNiIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-06&list=charter&p=2858&s=SEMBO_DK&a=afbudsrejser&crc=356405432",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.5&id=1496263%21yqLaaBxToeFwUlRlSXtKJA&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0yMCIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0yMCIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0yMCIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-20&list=charter&p=2416&s=SEMBO_DK&a=afbudsrejser&crc=1428610912",
+      "hotelName": "VILA CANO",
+      "destination": "Durres",
+      "country": "Albania",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2026-06-20",
+      "returnDate": "2026-06-27",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 2416,
+      "currency": "DKK",
+      "hotelImageUrl": "https://i.travelapi.com/lodging/114000000/113340000/113331000/113330924/87e0056a_z.jpg",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-5.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-05-25T10:47:36.786Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-1d52ebc1",
+      "source": "afbudsrejser.dk",
+      "provider": "Spies",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.6&id=111043%21iBiHlxSEeQzLnfuno8AiYQ&link=https%3A%2F%2Fwww.spies.dk%2Ftyrkiet%2Fantalya-omradet%2Falanya%2Fclub-sidar%3FItemId%3D34195%26QueryAges%3D42%2C42%2C42%2C42%26QueryDepDate%3D20260604%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=2590&s=SPIES_DK&a=afbudsrejser&crc=4131224543",
+      "hotelName": "Club Sidar",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2026-06-04",
+      "returnDate": "2026-06-11",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 2590,
+      "currency": "DKK",
+      "hotelImageUrl": "https://img.spies.dk/image/upload/c_fill,w_1280,h_853,q_auto:eco/dam-upload/Hotel/Turkey/AYT/74nyg4j/TR_AYT_Club_Sidar_74nyg4j_00048.jpg",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-6.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-05-25T10:47:36.894Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-98a9d784",
+      "source": "afbudsrejser.dk",
+      "provider": "Sembo",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.7&id=1496263%21JM5hD6a45qXM7D3gCqiikA&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0wNiIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0wNiIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0wNiIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-06&list=charter&p=2614&s=SEMBO_DK&a=afbudsrejser&crc=930951125",
       "hotelName": "VILA CANO",
       "destination": "Durres",
       "country": "Albania",
@@ -258,10 +325,10 @@
       "returnDate": "2026-06-13",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 2858,
+      "totalPrice": 2614,
       "currency": "DKK",
       "hotelImageUrl": "https://i.travelapi.com/lodging/114000000/113340000/113331000/113330924/87e0056a_z.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-6.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-7.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -270,7 +337,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:59.097Z",
+      "foundAt": "2026-05-25T10:47:36.998Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -279,109 +346,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-76e67b0e",
-      "source": "afbudsrejser.dk",
-      "provider": "Spies",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.7&id=126916%21crWKE5RIreNlhQRT85h3jQ&link=https%3A%2F%2Fwww.spies.dk%2Ftyrkiet%2Fantalya-omradet%2Falanya%2Fatak-apart-hotel%3FItemId%3D165311%26QueryAges%3D42%2C42%2C42%2C5%26QueryDepDate%3D20260611%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=2890&s=SPIES_DK&a=afbudsrejser&crc=2920608640",
-      "hotelName": "Atak Apart Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2026-06-11",
-      "returnDate": "2026-06-18",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 2890,
-      "currency": "DKK",
-      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://img.spies.dk/image/upload/images/Hotel/AYTATAP1012_2_30.jpg?v=7",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-7.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:59.208Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-7bed194b",
-      "source": "afbudsrejser.dk",
-      "provider": "Spies",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.8&id=1025868%21r9dYcQWQjqBOuOyYQsBZKA&link=https%3A%2F%2Fwww.spies.dk%2Ftyrkiet%2Fantalya-omradet%2Falanya%2Fnordic-house-oba%3FItemId%3D161542%26QueryAges%3D42%2C5%2C5%26QueryDepDate%3D20260604%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=2990&s=SPIES_DK&a=afbudsrejser&crc=1257850730",
-      "hotelName": "Nordic House Oba",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2026-06-04",
-      "returnDate": "2026-06-11",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 2990,
-      "currency": "DKK",
-      "hotelImageUrl": "https://img.spies.dk/image/upload/c_fill,w_1280,h_853,q_auto:eco/dam-upload/Hotel/Turkey/AYT/bm8a2e5/TR_AYT_Nordic_House_Oba_bm8a2e5_00048.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-8.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:59.305Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-160e4141",
-      "source": "afbudsrejser.dk",
-      "provider": "Spies",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.9&id=122313%21eSweBVHSQYVJIQxDPWOkuw&link=https%3A%2F%2Fwww.spies.dk%2Ftyrkiet%2Fantalya-omradet%2Falanya%2Fsailor-apart%3FItemId%3D175754%26QueryAges%3D42%2C42%2C42%2C42%26QueryDepDate%3D20260611%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=2990&s=SPIES_DK&a=afbudsrejser&crc=2946367902",
-      "hotelName": "Sailor Apart",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2026-06-11",
-      "returnDate": "2026-06-18",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 2990,
-      "currency": "DKK",
-      "hotelImageUrl": "https://img.spies.dk/image/upload/c_fill,w_1280,h_853,q_auto:eco/dam-upload/Hotel/Turkey/AYT/uru9105/TR_AYT_Sailor_Apart_uru9105_00036.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-9.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:59.434Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-3bf83402",
+      "id": "deal-46c9da1",
       "source": "afbudsrejser.dk",
       "provider": "Sembo",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.10&id=1496263%21QrOdxDRKWFza4ZkjyBPmcA&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0xMyIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0xMyIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0xMyIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-13&list=charter&p=3032&s=SEMBO_DK&a=afbudsrejser&crc=544998592",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.8&id=1496263%21QrOdxDRKWFza4ZkjyBPmcA&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0xMyIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0xMyIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0xMyIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-13&list=charter&p=2664&s=SEMBO_DK&a=afbudsrejser&crc=2334800219",
       "hotelName": "VILA CANO",
       "destination": "Durres",
       "country": "Albania",
@@ -390,10 +358,10 @@
       "returnDate": "2026-06-20",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 3032,
+      "totalPrice": 2664,
       "currency": "DKK",
       "hotelImageUrl": "https://i.travelapi.com/lodging/114000000/113340000/113331000/113330924/87e0056a_z.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-10.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-8.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -402,7 +370,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:59.550Z",
+      "foundAt": "2026-05-25T10:47:37.110Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -411,22 +379,22 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-d627a32c",
+      "id": "deal-a0bc6557",
       "source": "afbudsrejser.dk",
-      "provider": "Spies",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.11&id=319174%213SBCUkEntO1OADKghdpM3Q&link=https%3A%2F%2Fwww.spies.dk%2Ftyrkiet%2Fantalya-omradet%2Falanya%2Fbelle-ocean-apart-hotel%3FItemId%3D109756%26QueryAges%3D42%26QueryDepDate%3D20260611%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=3090&s=SPIES_DK&a=afbudsrejser&crc=2091949875",
-      "hotelName": "Belle-Ocean Apart Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
+      "provider": "Sembo",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.9&id=1496263%21sLho8UWBGLsynYDakobmvg&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsImZyb21JYXRhIjoiQkxMIiwidG9JYXRhIjoiVElBIiwibWF4TnVtYmVyT2ZTdG9wcyI6MCwiZmxpZ2h0TnVtYmVycyI6WyJXNCA1MTkyIl0sInRyYW5zcG9ydFR5cGVzIjpbIkZsaWdodCJdfSx7Im51bWJlck9mTmlnaHRzIjo3LCJpbmdyZWRpZW50VHlwZSI6IkhvdGVsIiwiaG90ZWxDb2RlcyI6WyIxMzY0OTI1MiJdLCJzdGFyUmF0aW5nIjowLCJzZWxlY3RlZEhvdGVsVHlwZXMiOltdLCJoZWFydGVkSG90ZWxzIjpbeyJjb2RlIjoiMTM2NDkyNTIifV0sIm1heE51bWJlck9mSG90ZWxzIjoyMDAsImJvYXJkQmFzaXMiOlsiUm9vbU9ubHkiXSwiZ2V0Qm9hcmRzIjp0cnVlLCJudW1iZXJPZlN1Z2dlc3Rpb25zIjoyMDB9LHsiaW5ncmVkaWVudFR5cGUiOiJUcmFuc3BvcnQiLCJmcm9tSWF0YSI6IlRJQSIsInRvSWF0YSI6IkJMTCIsIm1heE51bWJlck9mU3RvcHMiOjAsImZsaWdodE51bWJlcnMiOlsiVzQgNTE5MSJdLCJ0cmFuc3BvcnRUeXBlcyI6WyJGbGlnaHQiXX1dLCJzdGFydERhdGVPbmx5IjoiMjAyNi0wNi0yMyIsImVuZERhdGVPbmx5IjoiMjAyNi0wNi0yMyIsIm1hcmtldCI6Imh0dHBzOi8vd3d3LnNlbWJvLmRrIiwic3VnZ2VzdGVkQnkiOiJQb3B1bGFyIiwiYWZmaWxpYXRlSWQiOiJSR0dBRkIwMDEiLCJyZXR1cm5FbXB0eUluZ3JlZGllbnRSZXN1bHRzIjpmYWxzZSwic2VsZWN0ZWREYXRlIjoiMjAyNi0wNi0yMyIsIm1ldGFkYXRhIjp7InNvdXJjZVR5cGUiOiJQYXJ0bmVyc1BhY2thZ2VBUEkiLCJzYWxlc0NoYW5uZWwiOiJNRVRBX1BBQ0tBR0UifX0%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26day%3D2026-06-23&list=charter&p=2766&s=SEMBO_DK&a=afbudsrejser&crc=3541827678",
+      "hotelName": "VILA CANO",
+      "destination": "Durres",
+      "country": "Albania",
       "departureAirport": "Billund (BLL)",
-      "departureDate": "2026-06-11",
-      "returnDate": "2026-06-18",
+      "departureDate": "2026-06-23",
+      "returnDate": "2026-06-30",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 3090,
+      "totalPrice": 2766,
       "currency": "DKK",
-      "hotelImageUrl": "https://img.spies.dk/image/upload/c_fill,w_1280,h_853,q_auto:eco/dam-upload/Hotel/Turkey/AYT/Belle-Ocean%20Apart%20Hotel-tixabw3/TR_AYT_BelleOcean_Apart_Hotel_tixabw3_00000.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-11.png",
+      "hotelImageUrl": "https://i.travelapi.com/lodging/114000000/113340000/113331000/113330924/87e0056a_z.jpg",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-9.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -435,7 +403,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:59.662Z",
+      "foundAt": "2026-05-25T10:47:37.222Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -444,22 +412,55 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-628d2dca",
+      "id": "deal-775784bc",
       "source": "afbudsrejser.dk",
       "provider": "Spies",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.12&id=319904%21eMRd3mmLlHtTflxd5OqYgg&link=https%3A%2F%2Fwww.spies.dk%2Ftyrkiet%2Fantalya-omradet%2Fside%2Fbegonville-side%3FItemId%3D9566%26QueryAges%3D42%26QueryDepDate%3D20260611%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=3190&s=SPIES_DK&a=afbudsrejser&crc=291650665",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.10&id=319904%21OsD8Zx0FyyvtJEQUQV1W0Q&link=https%3A%2F%2Fwww.spies.dk%2Ftyrkiet%2Fantalya-omradet%2Fside%2Fbegonville-side%3FItemId%3D9566%26QueryAges%3D42%2C42%2C42%2C42%26QueryDepDate%3D20260604%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=2790&s=SPIES_DK&a=afbudsrejser&crc=3652578458",
       "hotelName": "Begonville Side",
       "destination": "Side",
       "country": "Turkey",
       "departureAirport": "Billund (BLL)",
+      "departureDate": "2026-06-04",
+      "returnDate": "2026-06-11",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 2790,
+      "currency": "DKK",
+      "hotelImageUrl": "https://img.spies.dk/image/upload/c_fill,w_1280,h_853,q_auto:eco/dam-upload/Hotel/Turkey/AYT/xtL2a5w/TR_AYT_Begonville_Side_xtL2a5w_00064.jpg",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-10.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-05-25T10:47:37.331Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-fa2e963a",
+      "source": "afbudsrejser.dk",
+      "provider": "Neckermann Nordic",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.12&id=108084%21RSvume9Mx8aGvo7OHxx3JA&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fmitos-apart-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20260611%26CHECKIN_END%3D20260611%26partref%3Dreisegiganten&list=charter&p=3031&s=NECKERMANN_DK&a=afbudsrejser&crc=3520101198",
+      "hotelName": "Mitos Apart Hotel",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
       "departureDate": "2026-06-11",
       "returnDate": "2026-06-18",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 3190,
+      "totalPrice": 3031,
       "currency": "DKK",
-      "hotelImageUrl": "https://img.spies.dk/image/upload/c_fill,w_1280,h_853,q_auto:eco/dam-upload/Hotel/Turkey/AYT/xtL2a5w/TR_AYT_Begonville_Side_xtL2a5w_00064.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-12.png",
+      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/mitos-apart-hotel/o43993?&hotelCode=1096",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-12.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -468,7 +469,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:59.757Z",
+      "foundAt": "2026-05-25T10:47:37.518Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -477,44 +478,11 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-f246a8d5",
+      "id": "deal-24aac782",
       "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.13&id=111043%215hJBjOMblEJMEY3TK4d8Zw&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2U3W6CMBiG74WDHg2BQlw0aZauVmzUQkrJ5lGD2CnRoSkQsyy79%2BHPNi%2FAnXH2vO%2FXJs2T5vu0DqbItYLKtYbWpq4P1dBxjsdjr9T5Vpv3rCztcm9WRd5bbZ1635jKqRuz1R9OvmuWdlWsMmNv9rXePZFUCMrJAgVgzGaSCuSBsaAsnMiWYiwkkyziKhaMUORDcAYV45C2c0FJxC%2FstiFMZ1ggaRoNEooFmah5NKJoCfOfLBcxRTEmUyqVjFIBkkjIS%2BsCGb3wsYjmyBv0A8BPb5gzjh6viF9bPF06H7c9kEgsKRoAPEpnEkFAJpRMGVfPNETQhX2373q%2FJeWjv%2FKQmdroN2R0Uel1sc7KWpfWw1Vs0Im9FRvcTazfib0V699NLFReJ%2FY%2FVoHfib3vj%2F36BsQcHCO%2BBgAA&list=charter&p=3385&s=NECKERMANN_DK&a=afbudsrejser&crc=1863997925",
-      "hotelName": "Club Sidar Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2026-06-01",
-      "returnDate": "2026-06-08",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 3385,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-13.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:59.854Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-3f64e719",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.14&id=111043%21FFw5ZC56U14mN26eReEOQg&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2U32rCMBSH36UXuVptG4tDIYwsxlrUpMSUzatQa6ZFVyVNkTH27qt%2FtvkA7q533%2FklBw4fh%2FPpHEyRawVV4AycjbWHauB5x%2BOxU%2Bp8q817VpZuuTerIu%2Bstp7d16bybG22%2BsPLd%2FXSrYpVZtzN3urdE0mFoIwsUAhG8VRSgQIwEjSOxrKhBAsZy5gzlYiYUNSF4AwqwRFt3gUlnF3Yb4oonWKBpKk1mFMsyFjN%2BJCiJcx%2FarlIKEowmVCpJE8FmHMhL6kPJH9hI8FnKOj3QsBOM8xihh6viF8bPDWdv7sBmEssKeoDPEynEkFAxpRMYqaeaYSgD3t%2Bzw9%2FQ8qGf%2BEhM9boN2R0Uel1sc5Kq0vn4Sq224q9Fdu9m1io%2FFbsf2xs2Iq9FRve8RS0Yu96Cr6%2BAeX64%2FO%2BBgAA&list=charter&p=3385&s=NECKERMANN_DK&a=afbudsrejser&crc=3066919933",
-      "hotelName": "Club Sidar Hotel",
+      "provider": "Spies",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.13&id=126916%21idLYaWarqR8Vytlg1Q99JA&link=https%3A%2F%2Fwww.spies.dk%2Ftyrkiet%2Fantalya-omradet%2Falanya%2Fatak-apart-hotel%3FItemId%3D165311%26QueryAges%3D42%2C42%2C5%2C5%2C5%26QueryDepDate%3D20260604%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=3090&s=SPIES_DK&a=afbudsrejser&crc=4122257026",
+      "hotelName": "Atak Apart Hotel",
       "destination": "Alanya",
       "country": "Turkey",
       "departureAirport": "Billund (BLL)",
@@ -522,10 +490,10 @@
       "returnDate": "2026-06-11",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 3385,
+      "totalPrice": 3090,
       "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-14.png",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://img.spies.dk/image/upload/images/Hotel/AYTATAP1012_2_30.jpg?v=7",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-13.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -534,7 +502,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:04:59.950Z",
+      "foundAt": "2026-05-25T10:47:37.637Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -543,55 +511,22 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-64d15830",
+      "id": "deal-e3d069d2",
       "source": "afbudsrejser.dk",
       "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.15&id=111043%21NIIgMBme3MsnB86gQMpcBg&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2U32rCMBSH36UXuVptG4viIIwsxhrUpMSUzatQa6ZFVyVtkTH27qt%2FtvkA7q533%2FklBw4fh%2FPpHGyeGQ114Dw6m6o6lI%2BedzweO4XJtsa%2Bp0XhFnu7yrPOautV%2B9qWXlXbrfnwsl29dMt8lVp3s6%2FM7okkUlJOFigEIzZVVKIAjCRl0Vg1FGOpmGKC61gyQlEXgjPoGEe0eZeUCH5hvymiZIolUrY2YE6xJGM9E0OKljD7qdUipijGZEKVViKRYC6kuqQ%2BUOKFj6SYoWDQCwE%2FzTBjHPWviF8bPDWdv7sBmCusKBoAPEymCkFAxpRMGNfPNELQhz2%2F5%2Fd%2FQ8qHf%2BEhtZU1b8iavDTrfJ0WlSmch6vYbiv2Vmz3bmKh9lux%2F7GxYSv2Vmx4x1PQir3rKfj6Br%2Bd7My%2BBgAA&list=charter&p=3385&s=NECKERMANN_DK&a=afbudsrejser&crc=2613420766",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.14&id=111043%21HfpAlmvskIdEobxk1PQl5g&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2UXWvCMBSG%2F0svcrXaTxwKYWQx1qImJU3ZvAq1Zlp0VdIUGWP%2FffVjcz%2FA3fXuOW9y4PBcvJ%2FWQZeFkoH0rKG1MeZQDx3neDz2KlVslX7Pq8qu9npVFr3V1jH7RteOafRWfTjFrlnadbnKtb3ZG7V7whnnhOIFDME4ngnCoQfGnMTRRLSUIC5iETMqEx5jAgMfnEEmKCLtOyeY0Qu77RBlM8Sh0I0CKUEcT%2BScjQhc%2BsXPLBYJgQnCUyKkYBkHKePikrpAsBc65mwOvUE%2FBPR0wzym8PGK6LXF09L5u%2B2BVCBB4ACgUTYTMAB4QvA0pvKZRNB3%2Fb7b97zfkNDRLTzk2mj1BrUqa7Uu13llVGU9XMX60u3E3sT6dxMbdmL%2Fig3vJjboxP5XFXQde9cq%2BPoGGYvQMb4GAAA%3D&list=charter&p=3123&s=NECKERMANN_DK&a=afbudsrejser&crc=3637860089",
       "hotelName": "Club Sidar Hotel",
       "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2026-06-07",
-      "returnDate": "2026-06-14",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 3385,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-15.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:05:00.050Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-3d6d8704",
-      "source": "afbudsrejser.dk",
-      "provider": "Spies",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=wEwb7DnJIn&age=42-42&c=1.18&id=1315461%21CCQjMrvtYJSTFuyouxGhMA&link=https%3A%2F%2Fwww.spies.dk%2Ftyrkiet%2Fantalya-omradet%2Fside%2Fadora-apartments%3FItemId%3D173937%26QueryAges%3D42%2C42%2C42%2C5%26QueryDepDate%3D20260611%26QueryDepID%3D12676%26QueryDur%3D8%26QueryUnits%3D0%26UseBookingFlow%3Dtrue%26qf%3DflowCharter%26%5B%5BSPIES_DK_utm%5D%5D&list=charter&p=3390&s=SPIES_DK&a=afbudsrejser&crc=804967415",
-      "hotelName": "Adora Apartments",
-      "destination": "Side",
       "country": "Turkey",
       "departureAirport": "Billund (BLL)",
       "departureDate": "2026-06-11",
       "returnDate": "2026-06-18",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 3390,
+      "totalPrice": 3123,
       "currency": "DKK",
-      "hotelImageUrl": "https://img.spies.dk/image/upload/c_fill,w_1280,h_853,q_auto:eco/dam-upload/Hotel/Turkey/AYT/9krfrq9/TR_AYT_Adora_Apartments_9krfrq9_00011.jpg",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-05-21T10-04-52-945Z-18.png",
+      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-14.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -600,7 +535,106 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-05-21T10:05:00.367Z",
+      "foundAt": "2026-05-25T10:47:37.737Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-720d52af",
+      "source": "afbudsrejser.dk",
+      "provider": "Neckermann Nordic",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.15&id=115286%21V3TK4SIIypyHJo2UYkjceA&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bebek-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20260611%26CHECKIN_END%3D20260611%26partref%3Dreisegiganten&list=charter&p=3146&s=NECKERMANN_DK&a=afbudsrejser&crc=1481695601",
+      "hotelName": "Kleopatra Bebek Hotel",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2026-06-11",
+      "returnDate": "2026-06-18",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 3146,
+      "currency": "DKK",
+      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bebek-hotel/o25843?&hotelCode=81",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-15.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-05-25T10:47:37.835Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-3fb0d0a7",
+      "source": "afbudsrejser.dk",
+      "provider": "Neckermann Nordic",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.16&id=108084%21reWkMHM06dJO4idoPxOh2g&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2UW2vCMBiG%2F0svcrXag8WhEEYWYw1qUmLK5lXoaqbF2UoakTH231cPO11v3vXu%2Bd4vgfDwkjdnZ4pcq1AFzsBZW7urB553OBw6pc432myzsnTLyiyLvLPceLbam9qze7PRr962sFXtZrvMWHddWf1yh1MhCMMLGIERnUoiYABGgtB4LBtKkJBUUs5UIigmsBuCE6gExaTZC4I5O7PfDHE6RQJKs9dgTpDAYzXjQwKfwvxzlouEwAThCZFK8lSAORfynPpA8gc2EnwGg34vAuz4hhll8PaC6LHB46XTcTcAc4kkgX2AhulUwhDgMcETytQ9iWHohz2%2FFwRfIWHD7%2FAowOhnaHRR61WxykqrS%2BfmYrar%2FNbsD7PdfzMbtmav1tn2N7hOZ6O2s7%2FMRn82%2B%2F4BHuNuhsMGAAA%3D&list=charter&p=3162&s=NECKERMANN_DK&a=afbudsrejser&crc=864109171",
+      "hotelName": "Mitos Apart Hotel",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2026-06-11",
+      "returnDate": "2026-06-18",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 3162,
+      "currency": "DKK",
+      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/mitos-apart-hotel/o43993?&hotelCode=1096",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-16.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-05-25T10:47:37.935Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-1403b7bf",
+      "source": "afbudsrejser.dk",
+      "provider": "Neckermann Nordic",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=RIlZpVL3hX&age=42-42&c=1.18&id=108084%21jL8GRjfAanLkt6xUENhJxQ&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fmitos-apart-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20260601%26CHECKIN_END%3D20260601%26partref%3Dreisegiganten&list=charter&p=3200&s=NECKERMANN_DK&a=afbudsrejser&crc=617971586",
+      "hotelName": "Mitos Apart Hotel",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2026-06-01",
+      "returnDate": "2026-06-08",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 3200,
+      "currency": "DKK",
+      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/mitos-apart-hotel/o43993?&hotelCode=1096",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-05-25T10-47-32-437Z-18.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-05-25T10:47:38.170Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2026-06-01&lretdate=2026-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
