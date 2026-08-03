@@ -1,42 +1,36 @@
 {
-  "generatedAt": "2026-07-30T09:05:17.290Z",
+  "generatedAt": "2026-08-03T10:05:13.559Z",
   "markdownPath": "data/latest-report.md",
   "groups": [
     {
       "title": "Best overall",
       "description": "Top score after budget, data quality, and Greece preference.",
       "dealIds": [
-        "deal-8101a3e4",
-        "deal-66704e3a",
-        "deal-df8d34bc",
-        "deal-1fafa737",
-        "deal-58812f09"
+        "deal-12086bf6",
+        "deal-38626d31",
+        "deal-2d99a329",
+        "deal-34319338",
+        "deal-f2dbe461"
       ]
     },
     {
       "title": "Cheapest",
       "description": "Lowest known total price among matching deals.",
       "dealIds": [
-        "deal-8101a3e4",
-        "deal-66704e3a",
-        "deal-df8d34bc",
-        "deal-1fafa737",
-        "deal-f5003a33"
-      ]
-    },
-    {
-      "title": "Best Greece options",
-      "description": "Greek packages get a small boost but still need good value.",
-      "dealIds": [
-        "deal-58812f09"
+        "deal-12086bf6",
+        "deal-38626d31",
+        "deal-2d99a329",
+        "deal-34319338",
+        "deal-f2dbe461"
       ]
     },
     {
       "title": "Slightly above budget but interesting",
       "description": "Deals just above the 7000 DKK target that still score well.",
       "dealIds": [
-        "deal-66704e3a",
-        "deal-df8d34bc"
+        "deal-f81e096f",
+        "deal-20e6651f",
+        "deal-585f199b"
       ]
     }
   ]
