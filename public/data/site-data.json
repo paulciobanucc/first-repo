@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T09:08:28.683Z",
+  "generatedAt": "2026-08-10T08:03:39.597Z",
   "run": {
-    "id": "2026-08-06T09-08-21-591Z",
-    "startedAt": "2026-08-06T09:08:21.591Z",
-    "finishedAt": "2026-08-06T09:08:28.683Z",
+    "id": "2026-08-10T08-03-33-693Z",
+    "startedAt": "2026-08-10T08:03:33.693Z",
+    "finishedAt": "2026-08-10T08:03:39.597Z",
     "sourceCount": 3,
     "resultCount": 18,
     "status": "partial",
@@ -47,10 +47,175 @@
   ],
   "deals": [
     {
-      "id": "deal-cefd4964",
+      "id": "deal-20b3321f",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.2&id=108084%21GryOKATnC42EBEbyxKQpQw&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-08%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=5580&s=SUNWEB_DK&a=afbudsrejser&crc=2929223454",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-08",
+      "returnDate": "2027-06-15",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 5580,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-2.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:37.870Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-ba7bfadd",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.3&id=108084%21FnFyu4AYgUsVrMLoL5fFRg&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-15%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=5580&s=SUNWEB_DK&a=afbudsrejser&crc=3990601601",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-15",
+      "returnDate": "2027-06-22",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 5580,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-3.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:37.970Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-a0abf071",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.4&id=108084%21MDiTmXcAVrRiEkZF7aO4ww&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-08%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=5672&s=SUNWEB_DK&a=afbudsrejser&crc=4034089116",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-08",
+      "returnDate": "2027-06-15",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 5672,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-4.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:38.070Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-d0493c42",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.5&id=108084%21Nx5x0xAKgzgx9pVmZKjtAg&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-15%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=5672&s=SUNWEB_DK&a=afbudsrejser&crc=2602199125",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-15",
+      "returnDate": "2027-06-22",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 5672,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-5.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:38.187Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-75d92035",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.6&id=108084%21FNZf4qAfuRyY398exqKYnQ&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-22%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=5730&s=SUNWEB_DK&a=afbudsrejser&crc=1313653177",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-22",
+      "returnDate": "2027-06-29",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 5730,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-6.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:38.287Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-15e187b1",
       "source": "afbudsrejser.dk",
       "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.1&id=111043%21NVZxX1vmZWOfH8Iamxsr0A&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2UT2vCMBiHv0sPOa32j0VRCCNLYw1qUmLK5qnUmmnRVUlTZIx991XdnPfNW2%2FP7%2FcmEB7C%2B2EddJGr1E89a2htjDlUQ8c5Ho%2BdUuVbpd%2BysrTLvV4VeWe1dcy%2B1pVjar1V706%2Bq5d2VawybW%2F2Ru0ecSIEYXgBAzCiU0kE9MBIEBqNZUMxEpJKylkaC4oJ7PrgDGmMItLMBcGcXdhtQpRMkYBS1wrMCRJ4nM54SODSz3%2ByXMQExghPiEwlTwSYcyEvrQskf2YjwWfQG%2FQCwE5vmFEG%2B9%2BIXho8XToftz0wl0gSOAAoTKYS%2BgCPCZ5Qlj6RCPqu33d7bu9aEhb%2BlodMG61eoVZFpdbFOiuNKq2Hq1i3FXsPsd1W7K3Y7j%2BKbVfBXcQG7Y%2B9FRv8WeznF8diDaK%2BBgAA&list=charter&p=5792&s=NECKERMANN_DK&a=afbudsrejser&crc=851348015",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.7&id=111043%21NVZxX1vmZWOfH8Iamxsr0A&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B3UTW%2FCIBwG8O%2FSA6fVvmg0mpCFIVaiQoM0mydSK9NGVw2lMcuy72592eYHcLfenv8DJPA78OUcTJ5p1VG%2BM3A21h7Kgecdj8dWobOtNh9pUbjF3qzyrLXaenZfmdKzldnqTy%2FbVUu3zFepcTd7q3fPOBGCMLyAHTCiU0kEDMBIEBqNZZ1iJCSVlDMVC4oJbIfgElSMIlKvC4I5u2a%2FHqJkigSUptJgTpDAYzXjQwKXYfYzy0VMYIzwhEgleSLAnAt5bX0g%2BSsbCT6DQb%2FbAex8hxllsHeL6K2O50OX7W4A5hJJAvsADZOprB%2BAxwRPKFMvJIKhH%2Fb8rt%2F9LQkb%2FpWH1Fij36HReanX%2BTotrC6cpxtsu4G9h20%2FEDZoYP8DNmxg72HDB8I2X8FDYb9PS2PPp74GAAA%3D&list=charter&p=5792&s=NECKERMANN_DK&a=afbudsrejser&crc=628626044",
       "hotelName": "Club Sidar Hotel",
       "destination": "Alanya",
       "country": "Turkey",
@@ -62,7 +227,7 @@
       "totalPrice": 5792,
       "currency": "DKK",
       "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-1.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-7.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -71,7 +236,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:26.950Z",
+      "foundAt": "2026-08-10T08:03:38.401Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -80,10 +245,109 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-40e70192",
+      "id": "deal-999a6302",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.8&id=108084%21uBgkSDHaFyJgXpQ5juOChA&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-22%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=5822&s=SUNWEB_DK&a=afbudsrejser&crc=2185349874",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-22",
+      "returnDate": "2027-06-29",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 5822,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-8.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:38.507Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-5b57c5ef",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.9&id=108084%21ZhwIQeberay6NiYFgi9pTA&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-12%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=5880&s=SUNWEB_DK&a=afbudsrejser&crc=4204143386",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-12",
+      "returnDate": "2027-06-19",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 5880,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-9.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:38.620Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-51633c57",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.10&id=108084%21dnFgJXiCBoOLvswcSKyQ5Q&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-12%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=5972&s=SUNWEB_DK&a=afbudsrejser&crc=1377816748",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-12",
+      "returnDate": "2027-06-19",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 5972,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-10.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:38.721Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-8f1a392a",
       "source": "afbudsrejser.dk",
       "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.2&id=111043%21GXIhykxXi7dfzmJShJdyVw&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2SXWvCMBSG%2F0svcrXaD4uiEEaWxhrUpMSUzatSa6ZFVyVNkTH231d1c95v3vXuOe85Bw4P58M66CJXaTf1rKG1MeZQDR3neDx2SpVvlX7LytIu93pV5J3V1jH7WleOqfVWvTv5rl7aVbHKtL3ZG7V7xIkQhOEFDMCITiUR0AMjQWg0lg3FSEgqKWdpLCgmsOuDM6QxikjTFwRzdmG3KaJkigSUulZgTpDA43TGQwKXfv5Ty0VMYIzwhMhU8kSAORfykrpA8mc2EnwGvUEvAOx0w4wy2P9G9NLgaek8bntgLpEkcABQmEwl7AI8JnhCWfpEIui7ft%2Ftub1rSFj4Gx4ybbR6hVoVlVoX66w0qrQermLdVuw9xPrtx96K9f9RbPuxdxEbtGJvxQZ%2FFvv5BQb9TCW%2BBgAA&list=charter&p=6000&s=NECKERMANN_DK&a=afbudsrejser&crc=2680034084",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.11&id=111043%21GXIhykxXi7dfzmJShJdyVw&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2U3WrCMBiG76UHOVrtj0VxEEYWYw1qUmLK5lGoNdOiq5KmyBi791XdnBfgznr2vO%2BXQHgI36dzMEWuVah859HZWHuoHj3veDx2Sp1vtXnPytIt92ZV5J3V1rP72lSerc1Wf3j5rl66VbHKjLvZW717wqkQhOEFjMCITiURMAAjQWg8lg0lSEgqKWcqERQT2A3BGVSCYtLMBcGcXdhvQpxOkYDS1BrMCRJ4rGZ8SOAyzH%2BzXCQEJghPiFSSpwLMuZCX1geSv7CR4DMYDHoRYKc3zCiD%2FR9Erw2eLp2PuwGYSyQJHAA0TKcShgCPCZ5Qpp5JDEM%2F7Ps9v3ctCRv%2BlYfMWKPfoNFFpdfFOiutLp2Hq9igFfsfYqP2x96Kje4mttuKvRXbvaPYdhXcVezXNzqJJda%2BBgAA&list=charter&p=6000&s=NECKERMANN_DK&a=afbudsrejser&crc=3677970001",
       "hotelName": "Club Sidar Hotel",
       "destination": "Alanya",
       "country": "Turkey",
@@ -95,7 +359,7 @@
       "totalPrice": 6000,
       "currency": "DKK",
       "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-2.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-11.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -104,7 +368,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:27.050Z",
+      "foundAt": "2026-08-10T08:03:38.837Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -113,22 +377,22 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-8263071a",
+      "id": "deal-1536d632",
       "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.3&id=108054%21SxGayf1g5oDz5bCFKfEGow&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bavyera-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270606%26CHECKIN_END%3D20270606%26partref%3Dreisegiganten&list=charter&p=6300&s=NECKERMANN_DK&a=afbudsrejser&crc=1345481602",
-      "hotelName": "Kleopatra Bavyera Hotel",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.12&id=108084%21j5cmybQy6tzlIyRok71xWg&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-05%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=6028&s=SUNWEB_DK&a=afbudsrejser&crc=2156091784",
+      "hotelName": "Lejlighedshotel Mitos",
       "destination": "Alanya",
       "country": "Turkey",
       "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-06",
-      "returnDate": "2027-06-13",
+      "departureDate": "2027-06-05",
+      "returnDate": "2027-06-12",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 6300,
+      "totalPrice": 6028,
       "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bavyera-hotel/o25906?&hotelCode=80",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-3.png",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-12.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -137,7 +401,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:27.147Z",
+      "foundAt": "2026-08-10T08:03:38.929Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -146,10 +410,109 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-41f2d17",
+      "id": "deal-4978e239",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.13&id=108084%21hL8vxzhIxoUM8mwLyJPy1A&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-05%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=6120&s=SUNWEB_DK&a=afbudsrejser&crc=1705674229",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-05",
+      "returnDate": "2027-06-12",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 6120,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-13.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:39.040Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-4237f6ce",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.14&id=108084%21yn26srGzDPs1VYoDxZyCwg&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-19%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=6178&s=SUNWEB_DK&a=afbudsrejser&crc=1514237126",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-19",
+      "returnDate": "2027-06-26",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 6178,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-14.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:39.154Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-ee806e88",
+      "source": "afbudsrejser.dk",
+      "provider": "Sunweb",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.15&id=108084%21d8L6AGjxiJ3SFhYqtP7zdA&link=https%3A%2F%2Fwww.sunweb.dk%2Frejser%2Ftyrkiet%2Ftyrkiets-sydkyst%2Falanya%2Flejlighedshotel-mitos%3FTransportType%255B0%255D%3DFlight%26DepartureAirport%255B0%255D%3DBLL%26DepartureDate%255B0%255D%3D2027-06-19%26Duration%255B0%255D%3D8%26Mealplan%3DLG%26Mealplan%255B0%255D%3DLG%26Month%3D2027-06-01%26%5B%5BSUNWEB_DK_utm%5D%5D&list=charter&p=6270&s=SUNWEB_DK&a=afbudsrejser&crc=211116047",
+      "hotelName": "Lejlighedshotel Mitos",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-19",
+      "returnDate": "2027-06-26",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 6270,
+      "currency": "DKK",
+      "hotelImageUrl": "https://pipr.afbudsrejser.dk/rg/-/scale_crop/640x/center/https://static.sunweb.dk/products/Images/Original/16300000/70000/16370770-Original.jpg?width=640&height=640&mode=crop",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-15.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:39.255Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-244fe61c",
       "source": "afbudsrejser.dk",
       "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.4&id=115286%21ynTdo4bixPN4D38UU8RrLA&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bebek-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270606%26CHECKIN_END%3D20270606%26partref%3Dreisegiganten&list=charter&p=6300&s=NECKERMANN_DK&a=afbudsrejser&crc=3876687848",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.16&id=115286%21ynTdo4bixPN4D38UU8RrLA&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bebek-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270606%26CHECKIN_END%3D20270606%26partref%3Dreisegiganten&list=charter&p=6300&s=NECKERMANN_DK&a=afbudsrejser&crc=1202732403",
       "hotelName": "Kleopatra Bebek Hotel",
       "destination": "Alanya",
       "country": "Turkey",
@@ -161,7 +524,7 @@
       "totalPrice": 6300,
       "currency": "DKK",
       "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bebek-hotel/o25843?&hotelCode=81",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-4.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-16.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -170,7 +533,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:27.246Z",
+      "foundAt": "2026-08-10T08:03:39.354Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -179,11 +542,44 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-6acdbccc",
+      "id": "deal-59d6bfcd",
       "source": "afbudsrejser.dk",
       "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.5&id=108054%21FNWBdK0yK5PIbABylbHBUw&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bavyera-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270613%26CHECKIN_END%3D20270613%26partref%3Dreisegiganten&list=charter&p=6300&s=NECKERMANN_DK&a=afbudsrejser&crc=1574145750",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.17&id=108054%21SxGayf1g5oDz5bCFKfEGow&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bavyera-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270606%26CHECKIN_END%3D20270606%26partref%3Dreisegiganten&list=charter&p=6300&s=NECKERMANN_DK&a=afbudsrejser&crc=1687455904",
       "hotelName": "Kleopatra Bavyera Hotel",
+      "destination": "Alanya",
+      "country": "Turkey",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-06",
+      "returnDate": "2027-06-13",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 6300,
+      "currency": "DKK",
+      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bavyera-hotel/o25906?&hotelCode=80",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-17.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-08-10T08:03:39.441Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-8d13ba82",
+      "source": "afbudsrejser.dk",
+      "provider": "Neckermann Nordic",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&age=42-42&c=1.18&id=115286%21eZIBL7y5pro5cX5Mtg3tIA&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bebek-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270613%26CHECKIN_END%3D20270613%26partref%3Dreisegiganten&list=charter&p=6300&s=NECKERMANN_DK&a=afbudsrejser&crc=307047163",
+      "hotelName": "Kleopatra Bebek Hotel",
       "destination": "Alanya",
       "country": "Turkey",
       "departureAirport": "Billund (BLL)",
@@ -193,41 +589,8 @@
       "travelers": 2,
       "totalPrice": 6300,
       "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bavyera-hotel/o25906?&hotelCode=80",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-5.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:27.346Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-4168864a",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.6&id=115286%21eZIBL7y5pro5cX5Mtg3tIA&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bebek-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270613%26CHECKIN_END%3D20270613%26partref%3Dreisegiganten&list=charter&p=6300&s=NECKERMANN_DK&a=afbudsrejser&crc=1124730184",
-      "hotelName": "Kleopatra Bebek Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-13",
-      "returnDate": "2027-06-20",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 6300,
-      "currency": "DKK",
       "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bebek-hotel/o25843?&hotelCode=81",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-6.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-18.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -236,7 +599,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:27.444Z",
+      "foundAt": "2026-08-10T08:03:39.557Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -245,394 +608,31 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-432d5b5d",
+      "id": "deal-af837e9b",
       "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.7&id=108054%21Kdx63d0UU60z3xiOP23blA&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2Sy27CMBBF%2FyULrwp5gEBUsirXDMECnMg4allZIbgQhSaRMUWo6r83PNouum13rHzmzlgaHc27U5s806qjPOfe2Vhb7%2B5d93A4tEudFdq8pmXZKiuzyrP2qnBttTc71%2B5NoY9usdVVnVqTtpbp21E376ayevtAEyGA0wXuohGbShDYRyMBLBzLhmIiJJMs4ioWjALuBOgMKiYhNH0BNOIX9poiTKZEYGn2Gs2BCDpWs2gIeBlkX7VcxIBjQicglYwSgeaRkJfUQzJ64iMRzbA%2F6HURP%2B0wYxz3r0ieGzx9Oo%2B3fDSXRAIeIDJMphJ3EB0DnTCuHiHEgRf0vZ7X%2Bw6BD3%2FCOjXW6BdsdL7T63ydllaXzt3Vb6D8m99ffoM%2F9Hu73%2F%2Fw%2B%2FEJ9NTLVyEEAAA%3D&list=charter&p=6369&s=NECKERMANN_DK&a=afbudsrejser&crc=1901868113",
-      "hotelName": "Kleopatra Bavyera Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
+      "provider": "Sembo",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=DzeUxoqnw2&is_sponsor=1&age=42-42&c=1.1&id=94642%21fFSVlvhVBKPQT5nyyrbL20&link=https%3A%2F%2Fwww.sembo.dk%2Ftravel%2Fplan%2F%3Frecipe%3DeyJwYXgiOlt7Im51bWJlck9mQWR1bHRzIjoyfV0sImluZ3JlZGllbnRzIjpbeyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsIm51bWJlck9mU3VnZ2VzdGlvbnMiOjE1LCJmcm9tSWF0YSI6IkJMTCIsInRvSWF0YSI6IlRGTiIsImZsaWdodE51bWJlcnMiOlsiU0sgMTI4MCIsIlNLIDU4MSIsIlNLIDgzNzkiXSwidHJhbnNwb3J0VHlwZXMiOlsiRmxpZ2h0Il19LHsibnVtYmVyT2ZOaWdodHMiOjcsImluZ3JlZGllbnRUeXBlIjoiSG90ZWwiLCJob3RlbENvZGVzIjpbIjE5NTQ2Il0sInN0YXJSYXRpbmciOjAsInNlbGVjdGVkSG90ZWxUeXBlcyI6W10sImhlYXJ0ZWRIb3RlbHMiOlt7ImNvZGUiOiIxOTU0NiJ9XSwibWF4TnVtYmVyT2ZIb3RlbHMiOjExNywiYm9hcmRCYXNpcyI6WyJSb29tT25seSJdLCJnZXRCb2FyZHMiOnRydWUsIm51bWJlck9mU3VnZ2VzdGlvbnMiOjExN30seyJpbmdyZWRpZW50VHlwZSI6IlRyYW5zcG9ydCIsIm51bWJlck9mU3VnZ2VzdGlvbnMiOjE1LCJmcm9tSWF0YSI6IlRGTiIsInRvSWF0YSI6IkJMTCIsImZsaWdodE51bWJlcnMiOlsiVVggOTExNyIsIlNLIDU4MiIsIlNLIDEyODkiXSwidHJhbnNwb3J0VHlwZXMiOlsiRmxpZ2h0Il19XSwic3RhcnREYXRlT25seSI6IjIwMjctMDctMTgiLCJlbmREYXRlT25seSI6IjIwMjctMDctMTgiLCJtYXJrZXQiOiJodHRwczovL3d3dy5zZW1iby5kayIsInN1Z2dlc3RlZEJ5IjoiUG9wdWxhciIsImFmZmlsaWF0ZUlkIjoiUkdHQUZCMDAxIiwicmV0dXJuRW1wdHlJbmdyZWRpZW50UmVzdWx0cyI6ZmFsc2UsInNlbGVjdGVkRGF0ZSI6IjIwMjctMDctMTgiLCJtZXRhZGF0YSI6eyJzb3VyY2VUeXBlIjoiUGFydG5lcnNQYWNrYWdlQVBJIiwic2FsZXNDaGFubmVsIjoiTUVUQV9QQUNLQUdFIn19%26utm_source%3DReisegiganten%26utm_medium%3DMetapackage%26affiliate-id%3DRGGAFB001%26customer-origin%3Dmeta-package%26day%3D2027-07-18%26pat%3DAbBzEwDIUgMAfdcE&list=charter&p=14926&s=SEMBO_DK&a=afbudsrejser&crc=1968760820",
+      "hotelName": "4Dreams Hotel",
+      "destination": "Puerto de la Cruz",
+      "country": "Spain",
       "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-06",
-      "returnDate": "2027-06-13",
+      "departureDate": "2027-07-18",
+      "returnDate": "2027-07-25",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 6369,
+      "totalPrice": 14926,
       "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bavyera-hotel/o25906?&hotelCode=80",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-7.png",
-      "score": 100,
+      "hotelImageUrl": "https://i.travelapi.com/lodging/1000000/570000/560400/560393/78df6f23_z.jpg",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-08-10T08-03-33-693Z-1.png",
+      "score": 54,
       "reasons": [
-        "Within the 7000 DKK target.",
+        "Far above the preferred budget.",
         "Complete data makes this easier to compare.",
         "Visual context is available.",
         "Departure and return dates are clearly extracted."
       ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:27.542Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-5a578e56",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.8&id=115286%21v9reJX03rHcmxXzuzGkfsw&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2QTWvCQBCG%2F0sOe2rMh6JYWMp2HeOi7oZ1Q%2BspxLjVEJuEdUVK6X9v1NYeeiy9eXved2ZgeN6dxhS5TsM0cO6drbXN%2Ft7zjsdjp9J5qc1rVlVuVZt1kXfWpWfrg9l79mBK%2FeaVO103mTWZu9IrXbrb2urdA02kBE6XuIfGbKZA4gCNJbBoolqKiVRMMcHTWDIKuBuiM6QxiaCdS6CCX9hvQ5TMiMTKHDRaAJF0ks7FCPAqzL%2BzWsaAY0KnoFIlEokWQqpL6yMlnvhYijkOhv0e4qcf5ozjwReS5xZPR%2Bd1N0ALRRTgISKjZKZwiOgE6JTx9BEiHPrhwO%2F7%2FWsJfPRTNpmxRr9go4u93hSbrLK6cu6udv2b3X%2Bz273Z%2FWW3%2B2e7H5%2BuhIfOGwQAAA%3D%3D&list=charter&p=6369&s=NECKERMANN_DK&a=afbudsrejser&crc=1163615798",
-      "hotelName": "Kleopatra Bebek Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-06",
-      "returnDate": "2027-06-13",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 6369,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bebek-hotel/o25843?&hotelCode=81",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-8.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:27.650Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-bceafc09",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.9&id=108054%213axTAFcj4xI8MXBhOLCRVA&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2Sz2vCMBTH%2F5cecpr2lygKYWQx1qAmJaZsnkKtmZa6tsQ4keH%2Fvqqbu%2Bw2dvOUz%2Fu%2BF3h8eB9ObfJMq0B5zsDZWFvvBq57OBzapc4Kbd7SsmyVlVnlWXtVuLbam51r96bQR7fY6qpOrUlby%2FT9qJt3U1m9fcSJEIThBeyAEZ1KIqAPRoLQaCwbipGQVFLOVCwoJjAMwAVUjCLS9AXBnF3Za4oomSIBpdlrMCdI4LGa8SGByyD7ruUiJjBGeEKkkjwRYM6FvKYekPyZjQSfQb%2Ff7QB23mFGGex9IXpp8PzpMt7ywVwiSWAfoGEylTAAeEzwhDL1RCIYeEHP6%2FrhLSRs%2BBPWqbFGv0Kj851e5%2Bu0tLp0Hm5%2B%2Fbvff%2FQb3u%2F3F7%2Fhn%2F2ePgFpH725IQQAAA%3D%3D&list=charter&p=6369&s=NECKERMANN_DK&a=afbudsrejser&crc=4066516447",
-      "hotelName": "Kleopatra Bavyera Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-13",
-      "returnDate": "2027-06-20",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 6369,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bavyera-hotel/o25906?&hotelCode=80",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-9.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:27.746Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-c5fbf132",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.10&id=115286%21AOCuu0x6yWYxZZTx7N0B0g&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2Qy27CMBBF%2FyULrxryAIGoZFWuGYIFOJFx1LKyQnAhCk0iY4Sqqv%2Fe8KhYdMuS3bl3ZqTR%2BXYaU%2BRadZXvPDtba5v9s%2Bcdj8dOpfNSm8%2BsqtyqNusi76xLz9YHs%2FfswZT6yyt3um4yazJ3pVe6dLe11bsXmgoBnC5xD43ZTILAARoLYNFEtpQQIZlkMVeJYBRwN0RnUAmJoJ0LoDG%2FsN%2BGKJ0RgaU5aLQAIuhEzeMR4FWY%2F2W5TAAnhE5BKhmnAi1iIS%2Btj2T8xscinuNg2O8hfvphzjgeXJG8t3g6Oq%2B7AVpIIgEPERmlM4m7iE6AThlXrxDh0A8Hfj%2B4lcBHt7LJjDX6Axtd7PWm2GSV1ZXzdLUbPuz%2Bsxve0W7wsHt3uz%2B%2FrcuxNRsEAAA%3D&list=charter&p=6369&s=NECKERMANN_DK&a=afbudsrejser&crc=249749817",
-      "hotelName": "Kleopatra Bebek Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-13",
-      "returnDate": "2027-06-20",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 6369,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bebek-hotel/o25843?&hotelCode=81",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-10.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:27.850Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-2fbe1c89",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.11&id=111043%21pLwlB9QohpalBvVxnA1Eow&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2UXWvCMBSG%2F0svcrXaL1EchJHFWIOalJiyeRVqzbToqqQpMsb%2B%2B%2BrH5n6Au%2Bvdc96cQM5DOJ%2FOwRS5Vl3lO4%2FOxtpD9eh5x%2BOxU%2Bp8q817VpZuuTerIu%2Bstp7d16bybG22%2BsPLd%2FXSrYpVZtzN3urdE06FIAwvYBeM6FQSAQMwEoTGY9lQgoSkknKmEkExgVEIzqASFJPmXBDM2YX9pojTKRJQmlqDOUECj9WMDwlchvlPLRcJgQnCEyKV5KkAcy7kJfWB5C9sJPgMBoNeF7DTG2aUwf4V0WuDp0vndjcAc4kkgQOAhulUNgPgMcETytQziWHoh32%2FF0S%2FIWHDW3jIjDX6DRpdVHpdrLPS6tJ5uIqNVNCKvYmN7ii2%2FbH%2FIjZsxf4VG95RbLsK7ir26xtVrZ3vvgYAAA%3D%3D&list=charter&p=6377&s=NECKERMANN_DK&a=afbudsrejser&crc=2648909705",
-      "hotelName": "Club Sidar Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-13",
-      "returnDate": "2027-06-20",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 6377,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-11.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:27.952Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-1ef68f60",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.12&id=154008%21sJn4d8Xn8WoAc6bfWVYhAg&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fmay-flower-apart%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270606%26CHECKIN_END%3D20270606%26partref%3Dreisegiganten&list=charter&p=6592&s=NECKERMANN_DK&a=afbudsrejser&crc=1562903398",
-      "hotelName": "May Flower Apart",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-06",
-      "returnDate": "2027-06-13",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 6592,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/may-flower-apart/o32093?&hotelCode=72",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-12.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:28.037Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-f9f10f1a",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.13&id=111043%21adevirQ0FOFrNzWf5BUivg&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2SXWvCMBSG%2F0svcrXaL1EchJHFWIOalJiyeRVqzbToqqQpMsb%2B%2B%2BrHNn%2BAu%2Bvdc97kwDkP59M5mCLXqqt859HZWHuoHj3veDx2Sp1vtXnPytIt92ZV5J3V1rP72lSerc1Wf3j5rl66VbHKjLvZW717wqkQhOEF7IIRnUoiYABGgtB4LBtKkJBUUs5UIigmMArBGVSCYtK8C4I5u7DfFHE6RQJKU2swJ0jgsZrxIYHLMP%2Bp5SIhMEF4QqSSPBVgzoW8pD6Q%2FIWNBJ%2FBYNDrAnaaYUYZ7F8RvTZ4ajp%2FdwMwl0gSOABomE5lswAeEzyhTD2TGIZ%2B2Pd7QfQbEjb8Cw%2BZsUa%2FQaOLSq%2BLdVZaXToPV7FRK%2FZWbHRHsUEr9j%2FEhu3F3ooN7yi2vdi7iv36BsX2SlS%2BBgAA&list=charter&p=6654&s=NECKERMANN_DK&a=afbudsrejser&crc=3818085115",
-      "hotelName": "Club Sidar Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-13",
-      "returnDate": "2027-06-20",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 6654,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-13.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:28.151Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-890d01fb",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.14&id=111043%21gHMK6x0OE7zNgbXu8QwpHA&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2UT2vCMBiHv0sPOa32j0VRCCNLYw1qUmLK5qnUmmnRVUlTZIx991XdnPfNW2%2FP7%2FcmEB7C%2B2EddJGrtJt61tDaGHOoho5zPB47pcq3Sr9lZWmXe70q8s5q65h9rSvH1Hqr3p18Vy%2Ftqlhl2t7sjdo94kQIwvACBmBEp5II6IGRIDQay4ZiJCSVlLM0FhQT2PXBGdIYRaSZC4I5u7DbhCiZIgGlrhWYEyTwOJ3xkMCln%2F9kuYgJjBGeEJlKnggw50JeWhdI%2FsxGgs%2BgN%2BgFgJ3eMKMM9r8RvTR4unQ%2BbntgLpEkcABQmEwl7AI8JnhCWfpEIui7ft%2Ftub1rSVj4Wx4ybbR6hVoVlVoX66w0qrQermLdVuw9xPqt2Fux%2Fj%2BKbVfBXcQG7Y%2B9FRv8WeznF3lnX7C%2BBgAA&list=charter&p=6808&s=NECKERMANN_DK&a=afbudsrejser&crc=4001658065",
-      "hotelName": "Club Sidar Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-06",
-      "returnDate": "2027-06-13",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 6808,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-14.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:28.266Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-3eddb2d2",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.15&id=154008%215cg0U5C9SNd5VUk77Nn8uQ&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fmay-flower-apart%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270613%26CHECKIN_END%3D20270613%26partref%3Dreisegiganten&list=charter&p=6846&s=NECKERMANN_DK&a=afbudsrejser&crc=4176582947",
-      "hotelName": "May Flower Apart",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-13",
-      "returnDate": "2027-06-20",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 6846,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/may-flower-apart/o32093?&hotelCode=72",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-15.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:28.366Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-24731e66",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.16&id=108054%21v8ccxMiEJ1GyqWM7U8omJg&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bavyera-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270606%26CHECKIN_END%3D20270606%26partref%3Dreisegiganten&list=charter&p=7015&s=NECKERMANN_DK&a=afbudsrejser&crc=2988842116",
-      "hotelName": "Kleopatra Bavyera Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-06",
-      "returnDate": "2027-06-13",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 7015,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bavyera-hotel/o25906?&hotelCode=80",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-16.png",
-      "score": 88,
-      "reasons": [
-        "Slightly above budget but still close.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:28.463Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-f6be8469",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.17&id=111043%21QfZQw6jSdbNlRQepliJxbg&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2UT2vCMBiHv0sPOa32j0VRCCNLYw1qUmLK5qnUmmnRVUlTZIx991XdnPfNW2%2FP7%2FcmEB7C%2B2EddJGrtJt61tDaGHOoho5zPB47pcq3Sr9lZWmXe70q8s5q65h9rSvH1Hqr3p18Vy%2Ftqlhl2t7sjdo94kQIwvACBmBEp5II6IGRIDQay4ZiJCSVlLM0FhQT2PXBGdIYRaSZC4I5u7DbhCiZIgGlrhWYEyTwOJ3xkMCln%2F9kuYgJjBGeEJlKnggw50JeWhdI%2FsxGgs%2BgN%2BgFgJ3eMKMM9r8RvTR4unQ%2BbntgLpEkcABQmEwl7AI8JnhCWfpEIui7ft%2Ftub1rSVj4Wx4ybbR6hVoVlVoX66w0qrQermLdVuw9xPqt2Fux%2Fj%2BKbVfBXcQG7Y%2B9FRv8WeznF3lnX7C%2BBgAA&list=charter&p=7015&s=NECKERMANN_DK&a=afbudsrejser&crc=4162470977",
-      "hotelName": "Club Sidar Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-06",
-      "returnDate": "2027-06-13",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 7015,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-17.png",
-      "score": 88,
-      "reasons": [
-        "Slightly above budget but still close.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:28.558Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-bf4e58ee",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=QTJaERI2d8&age=42-42&c=1.18&id=115286%21cQOxl5u0MFkV8wBxoypxDQ&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bebek-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270606%26CHECKIN_END%3D20270606%26partref%3Dreisegiganten&list=charter&p=7015&s=NECKERMANN_DK&a=afbudsrejser&crc=4179902948",
-      "hotelName": "Kleopatra Bebek Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-06",
-      "returnDate": "2027-06-13",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 7015,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bebek-hotel/o25843?&hotelCode=81",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-08-06T09-08-21-591Z-18.png",
-      "score": 88,
-      "reasons": [
-        "Slightly above budget but still close.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-08-06T09:08:28.649Z",
+      "interestingNote": "Far above the preferred budget.",
+      "foundAt": "2026-08-10T08:03:37.757Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -642,49 +642,41 @@
     }
   ],
   "report": {
-    "generatedAt": "2026-08-06T09:08:28.683Z",
+    "generatedAt": "2026-08-10T08:03:39.597Z",
     "markdownPath": "data/latest-report.md",
     "groups": [
       {
         "title": "Best overall",
         "description": "Top score after budget, data quality, and Greece preference.",
         "dealIds": [
-          "deal-cefd4964",
-          "deal-40e70192",
-          "deal-8263071a",
-          "deal-41f2d17",
-          "deal-6acdbccc"
+          "deal-20b3321f",
+          "deal-ba7bfadd",
+          "deal-a0abf071",
+          "deal-d0493c42",
+          "deal-75d92035"
         ]
       },
       {
         "title": "Cheapest",
         "description": "Lowest known total price among matching deals.",
         "dealIds": [
-          "deal-cefd4964",
-          "deal-40e70192",
-          "deal-8263071a",
-          "deal-41f2d17",
-          "deal-6acdbccc"
-        ]
-      },
-      {
-        "title": "Slightly above budget but interesting",
-        "description": "Deals just above the 7000 DKK target that still score well.",
-        "dealIds": [
-          "deal-24731e66",
-          "deal-f6be8469",
-          "deal-bf4e58ee"
+          "deal-20b3321f",
+          "deal-ba7bfadd",
+          "deal-a0abf071",
+          "deal-d0493c42",
+          "deal-75d92035"
         ]
       }
     ]
   },
   "filters": {
     "countries": [
+      "Spain",
       "Turkey"
     ],
     "sources": [
       "afbudsrejser.dk"
     ],
-    "maxKnownPrice": 7015
+    "maxKnownPrice": 14926
   }
 }

@@ -1,36 +1,27 @@
 {
-  "generatedAt": "2026-08-06T09:08:28.683Z",
+  "generatedAt": "2026-08-10T08:03:39.597Z",
   "markdownPath": "data/latest-report.md",
   "groups": [
     {
       "title": "Best overall",
       "description": "Top score after budget, data quality, and Greece preference.",
       "dealIds": [
-        "deal-cefd4964",
-        "deal-40e70192",
-        "deal-8263071a",
-        "deal-41f2d17",
-        "deal-6acdbccc"
+        "deal-20b3321f",
+        "deal-ba7bfadd",
+        "deal-a0abf071",
+        "deal-d0493c42",
+        "deal-75d92035"
       ]
     },
     {
       "title": "Cheapest",
       "description": "Lowest known total price among matching deals.",
       "dealIds": [
-        "deal-cefd4964",
-        "deal-40e70192",
-        "deal-8263071a",
-        "deal-41f2d17",
-        "deal-6acdbccc"
-      ]
-    },
-    {
-      "title": "Slightly above budget but interesting",
-      "description": "Deals just above the 7000 DKK target that still score well.",
-      "dealIds": [
-        "deal-24731e66",
-        "deal-f6be8469",
-        "deal-bf4e58ee"
+        "deal-20b3321f",
+        "deal-ba7bfadd",
+        "deal-a0abf071",
+        "deal-d0493c42",
+        "deal-75d92035"
       ]
     }
   ]
