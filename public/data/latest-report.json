@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-09-24T11:52:52.590Z",
+  "generatedAt": "2026-09-28T13:52:36.568Z",
   "markdownPath": "data/latest-report.md",
   "groups": [
     {
       "title": "Best overall",
       "description": "Top score after budget, data quality, and Greece preference.",
       "dealIds": [
-        "deal-60a13913",
-        "deal-5e5414e0",
-        "deal-18cf9ee5",
-        "deal-d228af95",
-        "deal-525837ce"
+        "deal-5ed415fb",
+        "deal-3f30fc89",
+        "deal-6ae86a0c",
+        "deal-ce540074",
+        "deal-74256003"
       ]
     },
     {
       "title": "Cheapest",
       "description": "Lowest known total price among matching deals.",
       "dealIds": [
-        "deal-60a13913",
-        "deal-5e5414e0",
-        "deal-18cf9ee5",
-        "deal-d228af95",
-        "deal-525837ce"
+        "deal-5ed415fb",
+        "deal-3f30fc89",
+        "deal-6ae86a0c",
+        "deal-ce540074",
+        "deal-74256003"
       ]
     }
   ]
