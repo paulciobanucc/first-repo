@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T15:22:18.268Z",
+  "generatedAt": "2026-10-15T11:36:13.590Z",
   "run": {
-    "id": "2026-10-12T15-22-11-724Z",
-    "startedAt": "2026-10-12T15:22:11.724Z",
-    "finishedAt": "2026-10-12T15:22:18.268Z",
+    "id": "2026-10-15T11-36-06-943Z",
+    "startedAt": "2026-10-15T11:36:06.943Z",
+    "finishedAt": "2026-10-15T11:36:13.590Z",
     "sourceCount": 3,
     "resultCount": 18,
     "status": "partial",
@@ -47,10 +47,10 @@
   ],
   "deals": [
     {
-      "id": "deal-62363e65",
+      "id": "deal-48360241",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&is_sponsor=1&age=42-42&c=1.1&id=619506%21aeMVcFKC5gjygb78uUh2Zw&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fmy-home-guest-house%3Fairport%3DBLL%26departure%3D2027-06-12%26return%3D2027-06-19%26ED%3D2026-10-12%26genId%3D50182%26meta%3Dreisegiganten%26infp%3D496%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDA1Mzs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4053&s=SOLFAKTOR_DK&a=afbudsrejser&crc=1091148647",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&is_sponsor=1&age=42-42&c=1.1&id=619506%21aeMVcFKC5gjygb78uUh2Zw&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fmy-home-guest-house%3Fairport%3DBLL%26departure%3D2027-06-12%26return%3D2027-06-19%26ED%3D2026-10-15%26genId%3D50182%26meta%3Dreisegiganten%26infp%3D496%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDA1Mzs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4053&s=SOLFAKTOR_DK&a=afbudsrejser&crc=1852944372",
       "hotelName": "My Home Guest House",
       "destination": "Durres",
       "country": "Albania",
@@ -62,7 +62,7 @@
       "totalPrice": 4053,
       "currency": "DKK",
       "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/239f4b424b5121116a825f14d7d65ee949b62bf3-1000x643.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-1.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-1.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -71,7 +71,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:16.223Z",
+      "foundAt": "2026-10-15T11:36:11.872Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -80,10 +80,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-f6f5169d",
+      "id": "deal-d0966934",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.2&id=619506%21lQQUw6fB0andSmbvoASRWw&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fmy-home-guest-house%3Fairport%3DBLL%26departure%3D2027-06-01%26return%3D2027-06-08%26ED%3D2026-10-12%26genId%3D49076%26meta%3Dreisegiganten%26infp%3D533%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDIxMjs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4212&s=SOLFAKTOR_DK&a=afbudsrejser&crc=3709855865",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.2&id=619506%21lQQUw6fB0andSmbvoASRWw&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fmy-home-guest-house%3Fairport%3DBLL%26departure%3D2027-06-01%26return%3D2027-06-08%26ED%3D2026-10-15%26genId%3D49076%26meta%3Dreisegiganten%26infp%3D533%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDIxMjs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4212&s=SOLFAKTOR_DK&a=afbudsrejser&crc=4066893034",
       "hotelName": "My Home Guest House",
       "destination": "Durres",
       "country": "Albania",
@@ -95,7 +95,7 @@
       "totalPrice": 4212,
       "currency": "DKK",
       "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/239f4b424b5121116a825f14d7d65ee949b62bf3-1000x643.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-2.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-2.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -104,7 +104,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:16.339Z",
+      "foundAt": "2026-10-15T11:36:11.972Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -113,10 +113,43 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-44a3d4f4",
+      "id": "deal-5f973446",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.3&id=619506%21NA3nWPhxGQFfOgEEPWcnNQ&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fmy-home-guest-house%3Fairport%3DBLL%26departure%3D2027-06-08%26return%3D2027-06-15%26ED%3D2026-10-12%26genId%3D49776%26meta%3Dreisegiganten%26infp%3D624%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDQ3OTs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4479&s=SOLFAKTOR_DK&a=afbudsrejser&crc=771408288",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.3&id=619506%21ymIuzOdYl16OoUcXmQa0Ww&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fmy-home-guest-house%3Fairport%3DBLL%26departure%3D2027-06-15%26return%3D2027-06-22%26ED%3D2026-10-15%26genId%3D50504%26meta%3Dreisegiganten%26infp%3D532%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDIzMzs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4233&s=SOLFAKTOR_DK&a=afbudsrejser&crc=3923108186",
+      "hotelName": "My Home Guest House",
+      "destination": "Durres",
+      "country": "Albania",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-15",
+      "returnDate": "2027-06-22",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 4233,
+      "currency": "DKK",
+      "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/239f4b424b5121116a825f14d7d65ee949b62bf3-1000x643.jpg?h=500&auto=format",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-3.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-10-15T11:36:12.063Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-b8ae9f1f",
+      "source": "afbudsrejser.dk",
+      "provider": "Solfaktor",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.4&id=619506%21NA3nWPhxGQFfOgEEPWcnNQ&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fmy-home-guest-house%3Fairport%3DBLL%26departure%3D2027-06-08%26return%3D2027-06-15%26ED%3D2026-10-15%26genId%3D49776%26meta%3Dreisegiganten%26infp%3D624%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDQ3OTs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4479&s=SOLFAKTOR_DK&a=afbudsrejser&crc=438127910",
       "hotelName": "My Home Guest House",
       "destination": "Durres",
       "country": "Albania",
@@ -128,7 +161,7 @@
       "totalPrice": 4479,
       "currency": "DKK",
       "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/239f4b424b5121116a825f14d7d65ee949b62bf3-1000x643.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-3.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-4.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -137,7 +170,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:16.455Z",
+      "foundAt": "2026-10-15T11:36:12.166Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -146,10 +179,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-ae411d4f",
+      "id": "deal-20e6d718",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.4&id=480596%21WONEoEuKKPQyyaI68ebnew&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fsaranda%2Fhotel-iliria%3Fairport%3DBLL%26departure%3D2027-06-12%26return%3D2027-06-19%26ED%3D2026-10-12%26genId%3D50182%26meta%3Dreisegiganten%26infp%3D496%26room0adults%3D2%26room0childages%3D%26cs1%3DOztCQjs7NDYxOTs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4619&s=SOLFAKTOR_DK&a=afbudsrejser&crc=2507467002",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.5&id=480596%21WONEoEuKKPQyyaI68ebnew&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fsaranda%2Fhotel-iliria%3Fairport%3DBLL%26departure%3D2027-06-12%26return%3D2027-06-19%26ED%3D2026-10-15%26genId%3D50182%26meta%3Dreisegiganten%26infp%3D496%26room0adults%3D2%26room0childages%3D%26cs1%3DOztCQjs7NDYxOTs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4619&s=SOLFAKTOR_DK&a=afbudsrejser&crc=3154242967",
       "hotelName": "Hotel Iliria",
       "destination": "Saranda",
       "country": "Albania",
@@ -161,7 +194,7 @@
       "totalPrice": 4619,
       "currency": "DKK",
       "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/b0d21ab4d4faedb6be52f25e83065a38b5441958-1000x563.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-4.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-5.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -170,7 +203,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:16.573Z",
+      "foundAt": "2026-10-15T11:36:12.272Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -179,10 +212,43 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-f511a01f",
+      "id": "deal-3d13aa6",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.5&id=619506%21s03WdiylIZh4JZjNlYqXhQ&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fmy-home-guest-house%3Fairport%3DBLL%26departure%3D2027-06-05%26return%3D2027-06-12%26ED%3D2026-10-12%26genId%3D49763%26meta%3Dreisegiganten%26infp%3D702%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDc1Nzs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4757&s=SOLFAKTOR_DK&a=afbudsrejser&crc=1149646564",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.6&id=688426%21repAcZ9Hx2Jpv639f8cEpA&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fsaranda%2Fhotel-mano%3Fairport%3DBLL%26departure%3D2027-06-15%26return%3D2027-06-22%26ED%3D2026-10-15%26genId%3D50504%26meta%3Dreisegiganten%26infp%3D532%26room0adults%3D2%26room0childages%3D%26cs1%3DOztCQjs7NDczOTs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4739&s=SOLFAKTOR_DK&a=afbudsrejser&crc=1427054702",
+      "hotelName": "Hotel Mano",
+      "destination": "Saranda",
+      "country": "Albania",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-15",
+      "returnDate": "2027-06-22",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 4739,
+      "currency": "DKK",
+      "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/422e63fde412c868e8d8247456cecfd7563b4802-1000x669.jpg?h=500&auto=format",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-6.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-10-15T11:36:12.371Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-4b88a770",
+      "source": "afbudsrejser.dk",
+      "provider": "Solfaktor",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.7&id=619506%21s03WdiylIZh4JZjNlYqXhQ&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fmy-home-guest-house%3Fairport%3DBLL%26departure%3D2027-06-05%26return%3D2027-06-12%26ED%3D2026-10-15%26genId%3D49763%26meta%3Dreisegiganten%26infp%3D702%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDc1Nzs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4757&s=SOLFAKTOR_DK&a=afbudsrejser&crc=1626804857",
       "hotelName": "My Home Guest House",
       "destination": "Durres",
       "country": "Albania",
@@ -194,7 +260,7 @@
       "totalPrice": 4757,
       "currency": "DKK",
       "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/239f4b424b5121116a825f14d7d65ee949b62bf3-1000x643.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-5.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-7.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -203,7 +269,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:16.688Z",
+      "foundAt": "2026-10-15T11:36:12.472Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -212,10 +278,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-6823adb8",
+      "id": "deal-26c0c517",
       "source": "afbudsrejser.dk",
       "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.6&id=111043%21ll03XemmxvrBpaPLx9lS1Q&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2UXWvCMBSG%2F0svcrXaTxSFMLIYa1GTElM2r0KtmRZdlTRFxth%2FX%2F3Y5v3mXe%2Be854TCA%2BH82EddJErGUjXGlgbYw7VwHGOx2OnVPlW6besLO1yr1dF3lltHbOvdeWYWm%2FVu5Pv6qVdFatM25u9UbtHnHJOKF7AEIziqSAcemDESRyNRUMJ4iIWMaMy4TEmMPDBGWSCItL0OcGMXthtiiidIg6FrhWYE8TxWM7YkMCln3%2FXYpEQmCA8IUIKlnIwZ1xcUhcI9kxHnM2g1%2B%2BGgJ7%2BMIsp7F0RvTR4enQetz0wF0gQ2AdomE4FDAAeEzyJqXwiEfRdv%2Bd23fAnJHT4Gx4ybbR6hVoVlVoX66w0qrQermL9VuytWP%2FfxAbSa8XeZ2NbsXfZ2LA9Bbdiwz%2BL%2FfwCOqd4dr4GAAA%3D&list=charter&p=4824&s=NECKERMANN_DK&a=afbudsrejser&crc=271283382",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.8&id=111043%21ll03XemmxvrBpaPLx9lS1Q&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B3UT2vCMBgG8O%2FSQ06r%2FWNRHISRxViDmpSYsnkKtWZadFXSFBlj331VN%2BcHcLfenvd5Ewi%2FQz6dgylyrUIVOI%2FOxtpD9eh5x%2BOxU%2Bp8q817VpZuuTerIu%2Bstp7d16bybG22%2BsPLd%2FXSrYpVZtzN3urdE06FIAwvYARGdCqJgAEYCULjsWxSgoSkknKmEkExgd0QnINKUEyavSCYs0v2myFOp0hAaWoN5gQJPFYzPiRwGea%2Fs1wkBCYIT4hUkqcCzLmQl9YHkr%2BwkeAzGAx6EWCnN8wog%2F2fiF6beLp0Pu4GYC6RJHAA0DCdShgCPCZ4Qpl6JjEM%2FbDv9%2FzoWhI2%2FCsPmbFGv0Gji0qvi3VWWl06D1dYv4X9D9iohb2Fje4G221hb2G7d4Rt%2F9i7wn59A5d0tIS%2BBgAA&list=charter&p=4824&s=NECKERMANN_DK&a=afbudsrejser&crc=1076960839",
       "hotelName": "Club Sidar Hotel",
       "destination": "Alanya",
       "country": "Turkey",
@@ -227,7 +293,7 @@
       "totalPrice": 4824,
       "currency": "DKK",
       "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-6.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-8.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -236,7 +302,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:16.808Z",
+      "foundAt": "2026-10-15T11:36:12.573Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -245,10 +311,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-68698322",
+      "id": "deal-fc297423",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.7&id=953302%21q7xwB40eJ1rtyW6e2sKnBQ&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fhotel-alion%3Fairport%3DBLL%26departure%3D2027-06-12%26return%3D2027-06-19%26ED%3D2026-10-12%26genId%3D50182%26meta%3Dreisegiganten%26infp%3D496%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDg2Nzs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4867&s=SOLFAKTOR_DK&a=afbudsrejser&crc=1584173206",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.9&id=953302%21q7xwB40eJ1rtyW6e2sKnBQ&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fhotel-alion%3Fairport%3DBLL%26departure%3D2027-06-12%26return%3D2027-06-19%26ED%3D2026-10-15%26genId%3D50182%26meta%3Dreisegiganten%26infp%3D496%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDg2Nzs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4867&s=SOLFAKTOR_DK&a=afbudsrejser&crc=3706225580",
       "hotelName": "Hotel Alion",
       "destination": "Durres",
       "country": "Albania",
@@ -259,8 +325,8 @@
       "travelers": 2,
       "totalPrice": 4867,
       "currency": "DKK",
-      "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/a545ef4956a7a5eab5313cd7df49f09644f10906-1000x750.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-7.png",
+      "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/d9a15556fd2e7ef4e8d7258c4675c75335abac73-1000x750.jpg?h=500&auto=format",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-9.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -269,7 +335,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:16.922Z",
+      "foundAt": "2026-10-15T11:36:12.662Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -278,10 +344,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-443ea65",
+      "id": "deal-e21c91bc",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.8&id=688426%21inYSe1kVrBmzyGnXaKplTg&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fsaranda%2Fhotel-mano%3Fairport%3DBLL%26departure%3D2027-06-12%26return%3D2027-06-19%26ED%3D2026-10-12%26genId%3D50182%26meta%3Dreisegiganten%26infp%3D496%26room0adults%3D2%26room0childages%3D%26cs1%3DOztCQjs7NDkyNDs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4924&s=SOLFAKTOR_DK&a=afbudsrejser&crc=1332748470",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.10&id=688426%21inYSe1kVrBmzyGnXaKplTg&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fsaranda%2Fhotel-mano%3Fairport%3DBLL%26departure%3D2027-06-12%26return%3D2027-06-19%26ED%3D2026-10-15%26genId%3D50182%26meta%3Dreisegiganten%26infp%3D496%26room0adults%3D2%26room0childages%3D%26cs1%3DOztCQjs7NDkyNDs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4924&s=SOLFAKTOR_DK&a=afbudsrejser&crc=3099233211",
       "hotelName": "Hotel Mano",
       "destination": "Saranda",
       "country": "Albania",
@@ -293,7 +359,7 @@
       "totalPrice": 4924,
       "currency": "DKK",
       "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/422e63fde412c868e8d8247456cecfd7563b4802-1000x669.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-8.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-10.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -302,7 +368,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:17.041Z",
+      "foundAt": "2026-10-15T11:36:12.773Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -311,10 +377,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-3677066d",
+      "id": "deal-35727d06",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.9&id=953302%21CAjY8TdEaRls7XLjxxlVcQ&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fhotel-alion%3Fairport%3DBLL%26departure%3D2027-06-01%26return%3D2027-06-08%26ED%3D2026-10-12%26genId%3D49075%26meta%3Dreisegiganten%26infp%3D533%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDk5MTs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4991&s=SOLFAKTOR_DK&a=afbudsrejser&crc=3785413604",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.11&id=953302%21CAjY8TdEaRls7XLjxxlVcQ&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fhotel-alion%3Fairport%3DBLL%26departure%3D2027-06-01%26return%3D2027-06-08%26ED%3D2026-10-15%26genId%3D49075%26meta%3Dreisegiganten%26infp%3D533%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDk5MTs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4991&s=SOLFAKTOR_DK&a=afbudsrejser&crc=376076521",
       "hotelName": "Hotel Alion",
       "destination": "Durres",
       "country": "Albania",
@@ -325,8 +391,8 @@
       "travelers": 2,
       "totalPrice": 4991,
       "currency": "DKK",
-      "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/a545ef4956a7a5eab5313cd7df49f09644f10906-1000x750.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-9.png",
+      "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/d9a15556fd2e7ef4e8d7258c4675c75335abac73-1000x750.jpg?h=500&auto=format",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-11.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -335,7 +401,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:17.163Z",
+      "foundAt": "2026-10-15T11:36:12.872Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -344,10 +410,43 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-2f12d59f",
+      "id": "deal-aa469244",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.10&id=448803%21Blm8MsHgEpuYFY82TEayuQ&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F92QQUvEMBCF%2F0sPOZltWrotLgRBVkFYtwf3vgzNbBrbJmUypVDxv9tV8ah3b99785jD95aM5Bo8Z2eV7JKWeYy7NJ3neRNDf4GOA21Ml8YRvEOfgjfQT%2FGKTYgM0mAv12XqkV4hhRGIYUDPIcoBjWMkAo9Bft7vwNEYiPX94SAMXscToc5VXklVSlUJwrXxP01WiIf9Na2oZJYLi%2F7J6OK2rLZiQAZN6CJaZ8EzeuH8ZdRluf4JYVBgpp6jzr5S07regMWoRRMzXS%2F8clpi9bzY4niKVb1yPWstjCNs%2BLF3tmXNNGFy8%2B0o%2F7%2BO8l8dHffd9g9H7x%2BJdGPZSQIAAA%3D%3D&list=charter&p=4995&s=SOLFAKTOR_DK&a=afbudsrejser&crc=1548722568",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.12&id=953302%21k3k3wB3KYZUhPLVi5PQlzg&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fdurres%2Fhotel-alion%3Fairport%3DBLL%26departure%3D2027-06-15%26return%3D2027-06-22%26ED%3D2026-10-15%26genId%3D50504%26meta%3Dreisegiganten%26infp%3D532%26room0adults%3D2%26room0childages%3D%26cs1%3DOztSTzs7NDk5Mjs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=4992&s=SOLFAKTOR_DK&a=afbudsrejser&crc=3549617380",
+      "hotelName": "Hotel Alion",
+      "destination": "Durres",
+      "country": "Albania",
+      "departureAirport": "Billund (BLL)",
+      "departureDate": "2027-06-15",
+      "returnDate": "2027-06-22",
+      "nights": 7,
+      "travelers": 2,
+      "totalPrice": 4992,
+      "currency": "DKK",
+      "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/d9a15556fd2e7ef4e8d7258c4675c75335abac73-1000x750.jpg?h=500&auto=format",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-12.png",
+      "score": 100,
+      "reasons": [
+        "Within the 7000 DKK target.",
+        "Complete data makes this easier to compare.",
+        "Visual context is available.",
+        "Departure and return dates are clearly extracted."
+      ],
+      "interestingNote": "Good value: close to budget with complete package details.",
+      "foundAt": "2026-10-15T11:36:12.971Z",
+      "isGreece": false,
+      "rawExtract": {
+        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
+      },
+      "completeness": 1,
+      "packageType": "flight_hotel"
+    },
+    {
+      "id": "deal-1f70b562",
+      "source": "afbudsrejser.dk",
+      "provider": "Solfaktor",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.13&id=448803%21Blm8MsHgEpuYFY82TEayuQ&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F92Qy2rDMBBF%2F8ULrar4gR80IAIlLRRSe9Hsw2BNbMW2ZEZjDC7999pt6TIf0N25dy6zOB%2FBSKbGS3KJgn3QMo9%2BH4bzPO%2B866%2FQsaOd7kI%2FgjVoQ7Aa%2BslvWDvPIDX2cl2GFukGIYxADANadl4OqA0jEVh08vt%2BAEOjI1ZPp5PQuI0nQpVESSGjXEaFIFwb%2B9fEqXg%2BbmnFSMaZaNC%2BapU%2B5kUmBmRQhMZjYxqwjFYYex1Vnq9%2FnBsi0FPPXiU%2FqW5Nr6FBr0TtY1Ut%2FH5efFEeu6y8%2BaJauZqVEtoQ1vzSm6ZlxTRh8PDrKP6%2FjuK7jt6WJi3Pdx19fgGSVJmMSQIAAA%3D%3D&list=charter&p=4996&s=SOLFAKTOR_DK&a=afbudsrejser&crc=3647460217",
       "hotelName": "Apartamentos Mediterraneo Nerja",
       "destination": "Nerja",
       "country": "Spain",
@@ -356,10 +455,10 @@
       "returnDate": "2027-06-14",
       "nights": 7,
       "travelers": 2,
-      "totalPrice": 4995,
+      "totalPrice": 4996,
       "currency": "DKK",
       "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/2363fe9abef177b96ff3044314d2624345a961c1-840x460.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-10.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-13.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -368,7 +467,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:17.292Z",
+      "foundAt": "2026-10-15T11:36:13.072Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -377,10 +476,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-34af65f5",
+      "id": "deal-b7b3b42f",
       "source": "afbudsrejser.dk",
       "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.11&id=115286%21lste37iJjAHxxiNH1ZDPPA&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bebek-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270604%26CHECKIN_END%3D20270604%26partref%3Dreisegiganten&list=charter&p=5009&s=NECKERMANN_DK&a=afbudsrejser&crc=863885287",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.14&id=115286%21lste37iJjAHxxiNH1ZDPPA&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bebek-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270604%26CHECKIN_END%3D20270604%26partref%3Dreisegiganten&list=charter&p=5009&s=NECKERMANN_DK&a=afbudsrejser&crc=1716196712",
       "hotelName": "Kleopatra Bebek Hotel",
       "destination": "Alanya",
       "country": "Turkey",
@@ -392,7 +491,7 @@
       "totalPrice": 5009,
       "currency": "DKK",
       "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bebek-hotel/o25843?&hotelCode=81",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-11.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-14.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -401,7 +500,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:17.407Z",
+      "foundAt": "2026-10-15T11:36:13.164Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -410,10 +509,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-7872813b",
+      "id": "deal-855933ef",
       "source": "afbudsrejser.dk",
       "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.12&id=108054%21hWdivhEhvjNnTG0PxXnlgg&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bavyera-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270604%26CHECKIN_END%3D20270604%26partref%3Dreisegiganten&list=charter&p=5009&s=NECKERMANN_DK&a=afbudsrejser&crc=1315712163",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.15&id=108054%21hWdivhEhvjNnTG0PxXnlgg&link=https%3A%2F%2Fwww.neckermann-nordic.dk%2Ftours%2Fturkey%2Fkleopatra-bavyera-hotel%3FCURRENCY%3D4%26FILTER%3D1%26FREIGHT%3D1%26PARTITION_PRICE%3D32%26PRICE_PAGE%3D1%26RECONPAGE%3D10%26REGULAR%3DTrue%26SEARCH_MODE%3Db2c%26SEARCH_TYPE%3DPACKET_TOUR%26SORT_TYPE%3D0%26TOWNFROM%3D1964%26NIGHTMIN%3D7%26NIGHTMAX%3D7%26TOURTYPE%3D-1%26STATE%3D9%26ADULT%3D2%26CHECKIN_BEG%3D20270604%26CHECKIN_END%3D20270604%26partref%3Dreisegiganten&list=charter&p=5009&s=NECKERMANN_DK&a=afbudsrejser&crc=3831805062",
       "hotelName": "Kleopatra Bavyera Hotel",
       "destination": "Alanya",
       "country": "Turkey",
@@ -425,7 +524,7 @@
       "totalPrice": 5009,
       "currency": "DKK",
       "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bavyera-hotel/o25906?&hotelCode=80",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-12.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-15.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -434,7 +533,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:17.522Z",
+      "foundAt": "2026-10-15T11:36:13.259Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -443,10 +542,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-e4405149",
+      "id": "deal-6e117c13",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.13&id=480596%21nmPWrHGtpGlx4owdtbijCA&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fsaranda%2Fhotel-iliria%3Fairport%3DBLL%26departure%3D2027-06-01%26return%3D2027-06-08%26ED%3D2026-10-12%26genId%3D50071%26meta%3Dreisegiganten%26infp%3D533%26room0adults%3D2%26room0childages%3D%26cs1%3DOztCQjs7NTAyNTs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=5025&s=SOLFAKTOR_DK&a=afbudsrejser&crc=197026402",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.16&id=480596%21nmPWrHGtpGlx4owdtbijCA&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fsaranda%2Fhotel-iliria%3Fairport%3DBLL%26departure%3D2027-06-01%26return%3D2027-06-08%26ED%3D2026-10-15%26genId%3D50071%26meta%3Dreisegiganten%26infp%3D533%26room0adults%3D2%26room0childages%3D%26cs1%3DOztCQjs7NTAyNTs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=5025&s=SOLFAKTOR_DK&a=afbudsrejser&crc=989831415",
       "hotelName": "Hotel Iliria",
       "destination": "Saranda",
       "country": "Albania",
@@ -458,7 +557,7 @@
       "totalPrice": 5025,
       "currency": "DKK",
       "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/b0d21ab4d4faedb6be52f25e83065a38b5441958-1000x563.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-13.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-16.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -467,7 +566,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:17.639Z",
+      "foundAt": "2026-10-15T11:36:13.354Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -476,10 +575,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-6b386802",
+      "id": "deal-8ccd83",
       "source": "afbudsrejser.dk",
       "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.14&id=688426%21nG1imltk39sujNbR7Ae2hg&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fsaranda%2Fhotel-mano%3Fairport%3DBLL%26departure%3D2027-06-01%26return%3D2027-06-08%26ED%3D2026-10-12%26genId%3D49075%26meta%3Dreisegiganten%26infp%3D533%26room0adults%3D2%26room0childages%3D%26cs1%3DOztCQjs7NTA0ODs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=5048&s=SOLFAKTOR_DK&a=afbudsrejser&crc=3163550107",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.17&id=688426%21nG1imltk39sujNbR7Ae2hg&link=https%3A%2F%2Fwww.solfaktor.dk%2Falbanien%2Fsaranda%2Fhotel-mano%3Fairport%3DBLL%26departure%3D2027-06-01%26return%3D2027-06-08%26ED%3D2026-10-15%26genId%3D49075%26meta%3Dreisegiganten%26infp%3D533%26room0adults%3D2%26room0childages%3D%26cs1%3DOztCQjs7NTA0ODs7Ozs7Ow%3D%3D%26directFlight%3Dtrue&list=charter&p=5048&s=SOLFAKTOR_DK&a=afbudsrejser&crc=2162293554",
       "hotelName": "Hotel Mano",
       "destination": "Saranda",
       "country": "Albania",
@@ -491,7 +590,7 @@
       "totalPrice": 5048,
       "currency": "DKK",
       "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/422e63fde412c868e8d8247456cecfd7563b4802-1000x669.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-14.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-17.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -500,7 +599,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:17.758Z",
+      "foundAt": "2026-10-15T11:36:13.455Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
@@ -509,10 +608,10 @@
       "packageType": "flight_hotel"
     },
     {
-      "id": "deal-4ac97fdc",
+      "id": "deal-4acbd142",
       "source": "afbudsrejser.dk",
       "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.15&id=115286%21MRqCMDk8rsFCEARzpxxYZQ&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2SXWvCMBSG%2F0svcrXaNoriIIwsxhrUpMSUzatQa6alri0xImPsv69%2BbINdb3fePec958Dh4bx7jS1yo6GOvHtv61yzvw%2BC4%2FHYqUxeGvuaVZVf1XZd5J11Gbj6YPeBO9jSvAXlztRN5mzmr8zKlP62dmb3QFIpKSdL1ANjNlNUogiMJWXxRLWUYKmYYoLrRDJCUReCM%2BgEx7TtS0oEv3DYFnE6wxIpezBgQbEkEz0XI4pWMP%2Bq1TKhKMFkSpVWIpVgIaS6pCFQ4omPpZijaNjvAX66Yc44GlwRP7d4WjqP%2BxFYKKwoGgI8SmcKQUAmlEwZ1480RjCEg7Af9r5Dykc%2FYZNZZ80LsqbYm02xySpnKu%2Fuarerw5vdX3a7f2YX3uz%2Bw%2B9%2BfALpyhGMGwQAAA%3D%3D&list=charter&p=5077&s=NECKERMANN_DK&a=afbudsrejser&crc=3262621275",
+      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=2U4T6qzAxl&age=42-42&c=1.18&id=115286%21MRqCMDk8rsFCEARzpxxYZQ&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2STWvCQBCG%2F0sOe2rMh6JYWMp2HWNQd8O6ofW0xLjVEJuEdUVK6X9v1NYeeiy9eXvmnRkYHubdaUyRaxUq37l3ttY2%2B3vPOx6PnUrnpTavWVW5VW3WRd5Zl56tD2bv2YMp9ZtX7nTdZNZk7kqvdOlua6t3DzQVAhhd4h4axzMJAgdoLCCOJrKlhAgZy5gzlYiYAu6G6AwqIRG0fQGUswv7bRGlMyKwNAeNFkAEnag5HwFehfl3LZcJ4ITQKUgleSrQggt5SX0k%2BRMbCz7HwbDfQ%2Bx0wzxmePCF5LnF09J53A3QQhIJeIjIKJ1JHCI6ATqNmXqECId%2BOPD7fu8aAhv9hE1mrNEv2OhirzfFJqusrpy7q93gZvff7HZvv%2FvLbvfPdj8%2BAaC4ywEbBAAA&list=charter&p=5077&s=NECKERMANN_DK&a=afbudsrejser&crc=4189759724",
       "hotelName": "Kleopatra Bebek Hotel",
       "destination": "Alanya",
       "country": "Turkey",
@@ -524,7 +623,7 @@
       "totalPrice": 5077,
       "currency": "DKK",
       "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bebek-hotel/o25843?&hotelCode=81",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-15.png",
+      "screenshotPath": "/screenshots/afbudsrejser-2026-10-15T11-36-06-943Z-18.png",
       "score": 100,
       "reasons": [
         "Within the 7000 DKK target.",
@@ -533,106 +632,7 @@
         "Departure and return dates are clearly extracted."
       ],
       "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:17.873Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-46d918fa",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.16&id=108054%21BlsFPmri6Et1HxUIUUt7oQ&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2Sz2vCMBTH%2F5cecpq2jaI4CCOLsQY1KTFl8xRqzbTUtSXGiYz976s%2Fth123W6e8nnf9wKPD%2B%2Fdq22eGQ116N17G%2Bfq3b3vHw6HdmmywtjXtCxbZWVXedZeFb6r9nbnu70tzNEvtqaqU2fT1jJ9O5rm3VTObB9IIiXlZIG6YMSmikoUgpGkLBqrhmIsFVNMcB1LRijqQHAGHeOINn1JieAXDpoiSqZYImX3BswplmSsZ2JI0RJmX7VaxBTFmEyo0kokEsyFVJc0AEo88ZEUMxQOel3ATzvMGEf9K%2BLnBk%2BfzuOtEMwVVhQNAB4mU4UgIGNKJozrRxohGMB%2B0Au63yHlw5%2BwTq2z5gVZk%2B%2FMOl%2BnpTOld3f129HBze8vv50%2F8wtvfv%2Flfj8%2BAb7R88shBAAA&list=charter&p=5077&s=NECKERMANN_DK&a=afbudsrejser&crc=2300347198",
-      "hotelName": "Kleopatra Bavyera Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-04",
-      "returnDate": "2027-06-11",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 5077,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/kleopatra-bavyera-hotel/o25906?&hotelCode=80",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-16.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:17.990Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-6aa9abbf",
-      "source": "afbudsrejser.dk",
-      "provider": "Solfaktor",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.17&id=448803%21EuCuGCp53CROYzbg1D0j4A&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F92QwUrEMBRF%2F6WLrMykLdo6A0EQRxDG6cLuh0fzpo1tk%2FDySqHivztVwd18gLt777mr85EEsg2e8lOa7JKOOcSdUvM8b6IfztCzp43pVQzgLDoFzsAwxTU2PjJIg4O8PJVDegcFAYhhRMc%2ByhGNZSQCh15%2B8wewFDyxfjwchMH1PBHqPM1LmRYySwXhZXF%2FSyn2T2tbocxy0aJ7Mfp2uy0zMSKDJrQRW9uCY3TCunPQRXEvyPsxBTMNHHX%2B05rODgZajFo0MdPVwm%2F1EstjvZ%2BrOpbVJVez1sJYwoafB9t2rJkmTG5%2BHWX%2F11F21dHr0t8dl6uOPr8A4gypXkkCAAA%3D&list=charter&p=5109&s=SOLFAKTOR_DK&a=afbudsrejser&crc=285756405",
-      "hotelName": "Apartamentos Mediterraneo Nerja",
-      "destination": "Nerja",
-      "country": "Spain",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-10",
-      "returnDate": "2027-06-17",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 5109,
-      "currency": "DKK",
-      "hotelImageUrl": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/2363fe9abef177b96ff3044314d2624345a961c1-840x460.jpg?h=500&auto=format",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-17.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:18.107Z",
-      "isGreece": false,
-      "rawExtract": {
-        "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
-      },
-      "completeness": 1,
-      "packageType": "flight_hotel"
-    },
-    {
-      "id": "deal-2c92ff54",
-      "source": "afbudsrejser.dk",
-      "provider": "Neckermann Nordic",
-      "sourceUrl": "https://www.afbudsrejser.dk/charterredirect?search_id=A1UwJtTBLv&age=42-42&c=1.18&id=111043%21w1RUuX7irzVPIzqMvXA2GQ&link=js%3Agz%3Ab64%3AH4sIAAAAAAAA%2F%2B2S3WrCMBiG76UHOVrtj6IohJHFWIOalJiyeRRqzbToqqQpMsbu3fqzzQtwZz17vjcJ5Ht4v5yDyTOtOsp3Bs7G2kM58Lzj8dgqdLbV5iMtCrfYm1WetVZbz%2B4rU3q2Mlv96WW7aumW%2BSo17mZv9e4ZJ0IQhhewA0Z0KomAARgJQqOxrClGQlJJOVOxoJjAdgguoGIUkfpcEMzZlf16iJIpElCaSoM5QQKP1YwPCVyG2c8sFzGBMcITIpXkiQBzLuQ19YHkr2wk%2BAwG%2FW4HsPMfZpTB3g3RW43nR5frbgDmEkkC%2BwANk6msF8BjgieUqRcSwdAPe37X7%2F6GhA3%2FwkNqrNHv0Oi81Ot8nRZWF87TTWy7EXsvtv0wsWEj9l5s%2BMDGBo3Y%2F2lsI%2Fahjf0%2BAQhGC1S%2BBgAA&list=charter&p=5178&s=NECKERMANN_DK&a=afbudsrejser&crc=96417714",
-      "hotelName": "Club Sidar Hotel",
-      "destination": "Alanya",
-      "country": "Turkey",
-      "departureAirport": "Billund (BLL)",
-      "departureDate": "2027-06-06",
-      "returnDate": "2027-06-13",
-      "nights": 7,
-      "travelers": 2,
-      "totalPrice": 5178,
-      "currency": "DKK",
-      "hotelImageUrl": "https://files.neckermann-nordic.dk/hotel/hotels/turkey/club-sidar-hotel/o24408?&hotelCode=182",
-      "screenshotPath": "/screenshots/afbudsrejser-2026-10-12T15-22-11-724Z-18.png",
-      "score": 100,
-      "reasons": [
-        "Within the 7000 DKK target.",
-        "Complete data makes this easier to compare.",
-        "Visual context is available.",
-        "Departure and return dates are clearly extracted."
-      ],
-      "interestingNote": "Good value: close to budget with complete package details.",
-      "foundAt": "2026-10-12T15:22:18.224Z",
+      "foundAt": "2026-10-15T11:36:13.555Z",
       "isGreece": false,
       "rawExtract": {
         "searchUrl": "https://www.afbudsrejser.dk/charter?orig=BLL&edepdate=2027-06-01&lretdate=2027-08-07&duration=7-7&age=42-42&category=sunbath&sort=price&rating=%21flightonly"
